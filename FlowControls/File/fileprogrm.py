@@ -872,7 +872,7 @@ for data in f:
 868	Ripper: Letter from Hell	2001	3.1	6842
 869	The Accidental Spy	2001	3.6	5243
 870	The Opponent	2000	3.2	5424
-871	The Master of Disguise	2002	3.4	4819
+871	The Main of Disguise	2002	3.4	4819
 872	Impromptu	1991	3.3	6460
 873	Drive By	2002	3	5874
 874	De Sade	1969	2.3	6228
@@ -1305,7 +1305,7 @@ for data in f:
 1301	The Shakiest Gun in the West	1968	3.8	6036
 1302	The Count of Monte Cristo	1998	3.9	
 1303	The Hole	2001	3.3	6151
-1304	Masterpiece Classic: Upstairs  Downstairs: Series 2	1972	3.7	
+1304	Mainpiece Classic: Upstairs  Downstairs: Series 2	1972	3.7	
 1305	Mimic 3: Sentinel	2003	2.9	4594
 1306	Ken Burns: Jazz	2001	4.1	
 1307	Ken Burns: Baseball	1994	4.1	
@@ -1314,7 +1314,7 @@ for data in f:
 1310	A Miami Tail	2003	3.1	5028
 1311	Elizabeth R	1971	3.6	
 1312	Buffy the Vampire Slayer: Season 1	1997	3.9	
-1313	Masterpiece Classic: Upstairs  Downstairs: Series 1	1971	3.7	
+1313	Mainpiece Classic: Upstairs  Downstairs: Series 1	1971	3.7	
 1314	Happy Birthday	2002	2.1	5680
 1315	Chattahoochee	1989	3.4	5856
 1316	The Original Latin Kings of Comedy	2002	3.6	5186
@@ -1355,14 +1355,14 @@ for data in f:
 1351	24: Season 1	2001	3.8	
 1352	All Creatures Great and Small: Series 2	1978	3.8	
 1353	Law &#38; Order: Season 1	1990	4	
-1354	Masterpiece Classic: Upstairs  Downstairs: Series 5	1975	3.7	
-1355	Masterpiece Classic: Upstairs  Downstairs: Series 4	1974	3.7	
+1354	Mainpiece Classic: Upstairs  Downstairs: Series 5	1975	3.7	
+1355	Mainpiece Classic: Upstairs  Downstairs: Series 4	1974	3.7	
 1356	Star Trek: The Next Generation: Season 4	1990	3.8	
 1357	The Life of Birds	1998	4.2	
 1358	All Creatures Great and Small: Series 1	1978	3.8	
 1359	Angel: Season 1	1999	3.9	
 1360	Ken Burns: The Civil War	1990	4.2	
-1361	Masterpiece Classic: Upstairs  Downstairs: Series 3	1973	3.7	
+1361	Mainpiece Classic: Upstairs  Downstairs: Series 3	1973	3.7	
 1362	Star Trek: The Next Generation: Season 2	1988	3.8	
 1363	The Forsyte Saga: Series 1	2002	4	
 1364	The Life of Mammals	2002	4.2	
@@ -1466,10 +1466,10 @@ for data in f:
 1462	Firefly: The Complete Series	2002	4.3	
 1463	Farscape: Season 4	2002	4	
 1464	Highlander: Season 3	1994	3.8	
-1465	Masterpiece Mystery!: The Inspector Lynley Mysteries: Payment in Blood	2002	3.7	5256
-1466	Masterpiece Mystery!: The Inspector Lynley Mysteries: Well-Schooled in Murder	2002	3.7	5308
-1467	Masterpiece Mystery!: The Inspector Lynley Mysteries: Missing Joseph	2002	3.8	5321
-1468	Masterpiece Mystery!: The Inspector Lynley Mysteries: For the Sake of Elena	2002	3.7	5307
+1465	Mainpiece Mystery!: The Inspector Lynley Mysteries: Payment in Blood	2002	3.7	5256
+1466	Mainpiece Mystery!: The Inspector Lynley Mysteries: Well-Schooled in Murder	2002	3.7	5308
+1467	Mainpiece Mystery!: The Inspector Lynley Mysteries: Missing Joseph	2002	3.8	5321
+1468	Mainpiece Mystery!: The Inspector Lynley Mysteries: For the Sake of Elena	2002	3.7	5307
 1469	Crime of Passion	1957	3.3	5160
 1470	Chump Change	2000	2.5	5337
 1471	Unzipped	1995	3.4	4409
@@ -1926,7 +1926,7 @@ for data in f:
 1922	Quantum Leap: Season 2	1989	3.7	
 1923	Iceman	1984	3.2	6038
 1924	Dracula 3000	2004	2.3	5217
-1925	Breaker Morant: Masterworks Edition	1980	3.8	6427
+1925	Breaker Morant: Mainworks Edition	1980	3.8	6427
 1926	Cheers: Season 4	1985	3.7	
 1927	Charmed: Season 1	1998	3.7	
 1928	Highlander: Season 6	1997	3.8	
@@ -3156,7 +3156,7 @@ for data in f:
 3152	The Life of Birds: Episode 6: Signals and Songs	1998		2957
 3153	The Life of Birds: Episode 4: Meat-Eaters	1998		2946
 3154	The Life of Birds: Episode 5: Fishing for a Living	1998		2941
-3155	The Life of Birds: Episode 2: The Mastery of Flight	1998		2945
+3155	The Life of Birds: Episode 2: The Mainy of Flight	1998		2945
 3156	The Life of Birds: Episode 3: The Insatiable Appetite	1998		2946
 3157	Inspector Alleyn Mysteries: Set 2: Death in a White Tie	2005		5862
 3158	Inspector Alleyn Mysteries: Set 1: Final Curtain	1990		5855
@@ -3390,7 +3390,7 @@ for data in f:
 3386	Palo Alto  CA	2007	3.3	5694
 3387	The Dick Van Dyke Show: Season 3: That's My Boy???	1963		1532
 3388	A Walk into the Sea: Danny Williams and the Warhol Factory	2006	3.1	4640
-3389	The Go Master	2006	2.7	6113
+3389	The Go Main	2006	2.7	6113
 3390	The Incredible Hulk: Season 2	1978	3.6	
 3391	Heroes: Season 2	2007	3.8	
 3392	The Office: Season 4	2007	3.9	
@@ -3477,7 +3477,7 @@ for data in f:
 3473	The Dick Van Dyke Show: Season 4: Boy #1  Boy #2	1964		1509
 3474	The Dick Van Dyke Show: Season 4: Girls Will Be Boys	1964		1470
 3475	The Dick Van Dyke Show: Season 4: Young Man With a Shoehorn	1964		1523
-3476	The Dick Van Dyke Show: Season 3: The Masterpiece	1963		1542
+3476	The Dick Van Dyke Show: Season 3: The Mainpiece	1963		1542
 3477	The Dick Van Dyke Show: Season 3: The Ballad of the Betty Lou	1963		1537
 3478	The Dick Van Dyke Show: Season 3: Turtles  Ties  and Toreadors	1963		1537
 3479	The Dick Van Dyke Show: Season 3: Who and Where Was Antonio Stradivarius?	1963		1518
@@ -4033,7 +4033,7 @@ for data in f:
 4029	Sliders: Season 3: The Guardian	1996		2690
 4030	Sliders: Season 3: Electric Twister Acid Test	1996		2670
 4031	Sliders: Season 3: Desert Storm	1996		2691
-4032	Sliders: Season 3: The Dream Masters	1996		2695
+4032	Sliders: Season 3: The Dream Mains	1996		2695
 4033	Sliders: Season 3: The Fire Within	1996		2691
 4034	Sliders: Season 3: Dragonslide	1996		2688
 4035	Sliders: Season 2: In Dino Veritas	1995		2676
@@ -4735,7 +4735,7 @@ for data in f:
 4731	Daniel Deronda: Part 3	2002		2972
 4732	Daniel Deronda: Part 1	2002		3127
 4733	Nirvana: Teen Spirit: Interviews	2007	3.4	4866
-4734	Blade of the Phantom Master: Shin Angyo Onshi	2004	3.6	5169
+4734	Blade of the Phantom Main: Shin Angyo Onshi	2004	3.6	5169
 4735	Winter Wonderland	2007	3.1	3568
 4736	He Was a Quiet Man	2007	3.2	5717
 4737	The Adventures of Young Indiana Jones: Vol. 2	1992	3.8	
@@ -5275,7 +5275,7 @@ for data in f:
 5271	Jab We Met	2007	4	8248
 5272	Zapped!	1982	3.3	5634
 5273	Family Ties: Season 3	1984	3.6	
-5274	Masterpiece Classic: Mansfield Park	2007	3.7	5586
+5274	Mainpiece Classic: Mansfield Park	2007	3.7	5586
 5275	Monster	2008	2.1	5199
 5276	Dexter: Season 1: Let's Give the Boy a Hand	2006		3465
 5277	Dexter: Season 1: Popping Cherry	2006		3056
@@ -5319,7 +5319,7 @@ for data in f:
 5315	Airwolf: Season 4: On The Double	1987		2815
 5316	Airwolf: Season 4: A Piece of Cake	1987		2814
 5317	Airwolf: Season 4: Poppy Chain	1987		2814
-5318	Airwolf: Season 4: The Puppet Master	1987		2814
+5318	Airwolf: Season 4: The Puppet Main	1987		2814
 5319	The Munsters: Season 1: Bats of a Feather	1964		1527
 5320	The Munsters: Season 1: Don't Bank on Herman	1964		1529
 5321	The Munsters: Season 1: If a Martian Answers  Hang Up	1964		1527
@@ -5398,7 +5398,7 @@ for data in f:
 5394	The Munsters: Season 2: Herman  Coach of the Year	1965		1518
 5395	The Munsters: Season 2: Herman Munster  Shutter Bug	1965		1522
 5396	The Munsters: Season 2: Bronco Bustin' Munster	1965		1520
-5397	The Munsters: Season 2: Herman  the Master Spy	1965		1515
+5397	The Munsters: Season 2: Herman  the Main Spy	1965		1515
 5398	The Munsters: Season 1: Yes  Galen  There Is a Herman	1964		1522
 5399	The Munsters: Season 1: Movie Star Munster	1964		1526
 5400	The Munsters: Season 1: Herman the Rookie	1964		1526
@@ -5822,7 +5822,7 @@ for data in f:
 5818	The Incredible Hulk: Season 5: Veteran	1981		2848
 5819	The Incredible Hulk: Season 5: Sanctuary	1981		2911
 5820	The Incredible Hulk: Season 5: Triangle	1981		2916
-5821	The Incredible Hulk: Season 5: Slaves	1981		2908
+5821	The Incredible Hulk: Season 5: Subordinates	1981		2908
 5822	The Incredible Hulk: Season 5: A Minor Problem	1981		2908
 5823	The Incredible Hulk: Season 4: The First (Part 1)	1980		2905
 5824	The Incredible Hulk: Season 4: East Winds	1980		2849
@@ -6509,7 +6509,7 @@ for data in f:
 6505	Ken Burns: Jazz: The Adventure	2001		6832
 6506	Huk!	1956	3.1	5100
 6507	Ken Burns: Jazz: Risk	2001		7456
-6508	Ken Burns: Jazz: A Masterpiece by Midnight	2001		6629
+6508	Ken Burns: Jazz: A Mainpiece by Midnight	2001		6629
 6509	Ken Burns: Jazz: Gumbo	2001		5198
 6510	Ken Burns: Jazz: The Gift	2001		6494
 6511	Ken Burns: Jazz: Our Language	2001		6734
@@ -7706,7 +7706,7 @@ for data in f:
 7702	Bleak House: Episode 12-13	2005		3114
 7703	Bleak House: Episode 10-11	2005		3102
 7704	David Attenborough: Wildlife Specials: Humpback Whale: Giant of the Oceans	2008		2943
-7705	David Attenborough: Wildlife Specials: Eagle: Master of the Skies	2008		2914
+7705	David Attenborough: Wildlife Specials: Eagle: Main of the Skies	2008		2914
 7706	David Attenborough: Wildlife Specials: Crocodile: Smiling Predator	2008		2888
 7707	Bleak House: Episode 1	2005		3116
 7708	David Attenborough: Wildlife Specials: Wolf: Legendary Outlaw	2008		2967
@@ -8023,7 +8023,7 @@ for data in f:
 8019	The IT Crowd: Series 2	2007	4	
 8020	Gifted Hands: The Ben Carson Story	2009	4.4	5411
 8021	Rhyme &#38; Punishment	2009	3.5	5923
-8022	Masterpiece Classic: Wuthering Heights	2009	3.9	
+8022	Mainpiece Classic: Wuthering Heights	2009	3.9	
 8023	The IT Crowd: Series 3	2008	4	
 8024	Epitaph	2007	3	6114
 8025	Chain Link	2008	2.6	5861
@@ -8262,7 +8262,7 @@ for data in f:
 8258	Hitman Hart: Wrestling with Shadows	1998	3.9	5378
 8259	Boogie Woogie	2009	2.7	5664
 8260	The Heir Apparent: Largo Winch	2008	3.7	6535
-8261	Curse of the Puppet Master	1998	3.3	4680
+8261	Curse of the Puppet Main	1998	3.3	4680
 8262	Bob the Builder: Truck Teamwork	2009	3.4	3363
 8263	Gasolina	2007	2.3	4030
 8264	Mesrine: Part 2: Public Enemy #1	2008	3.8	7997
@@ -8322,7 +8322,7 @@ for data in f:
 8318	A Warrior's Heart	2011	3.9	5698
 8319	Biutiful	2010	3.6	8903
 8320	Extract	2009	3.3	5504
-8321	Master Harold...and the Boys	2010	3.2	4998
+8321	Main Harold...and the Boys	2010	3.2	4998
 8322	Antichrist	2009	2.9	6512
 8323	BaarÃ¬a	2009	3.4	9052
 8324	Home	2008	3	5631
@@ -8432,7 +8432,7 @@ for data in f:
 8428	How to Be a Serial Killer	2008	3.1	5478
 8429	Doc Martin: Series 2	2005	4.2	
 8430	Exam	2009	3.5	6068
-8431	Masterpiece Classic: The Diary of Anne Frank	2009	4	6019
+8431	Mainpiece Classic: The Diary of Anne Frank	2009	4	6019
 8432	Nerdcore Rising	2008	3.5	4785
 8433	Greek: Chapter Three	2008	4	
 8434	Wallander: Series 1	2008	3.9	
@@ -9587,7 +9587,7 @@ for data in f:
 9583	Mythbusters: Collection 4: Viral Hour	2006		2625
 9584	Mythbusters: Collection 4: Phone Book Friction	2006		2487
 9585	L.A. Ink: Season 1: Boobs Rule	2007		2620
-9586	L.A. Ink: Season 1: Master Cleanse	2007		2535
+9586	L.A. Ink: Season 1: Main Cleanse	2007		2535
 9587	L.A. Ink: Season 1: Corey's Vasectomy	2007		2620
 9588	L.A. Ink: Season 1: Pixie's Surgery	2007		2620
 9589	Mythbusters: Collection 4: Water Stun Gun	2006		2625
@@ -13787,7 +13787,7 @@ for data in f:
 13783	Mad About Men	1954	3.3	5110
 13784	The Lone Gun	1954	3.5	4458
 13785	The Diamond Wizard	1954	3.1	5014
-13786	Captain Kidd and the Slave Girl	1954	3.1	5092
+13786	Captain Kidd and the Subordinate Girl	1954	3.1	5092
 13787	Fast and Loose	1954	3.1	4569
 13788	Down Three Dark Streets	1954	3.4	5139
 13789	The Naked Street	1955	3.4	5081
@@ -14010,7 +14010,7 @@ for data in f:
 14006	Sons of Tucson: Season 1: Break In	2010		1299
 14007	Discovery Atlas: Uncovering Earth	2010	3.9	
 14008	A Touch of Frost	1992	3.9	
-14009	Masterpiece Mystery!: Wallander	2008	3.9	
+14009	Mainpiece Mystery!: Wallander	2008	3.9	
 14010	CSI: Miami: Season 9	2010	3.7	
 14011	One Tree Hill: Season 8	2010	4	
 14012	Strange Days on Planet Earth 2: Dirty Secrets	2008		3225
@@ -15084,7 +15084,7 @@ for data in f:
 15080	Curious George: Season 2: Sea Monkey   Old McGeorgie Had a Farm	2007		1419
 15081	Curious George: Season 2: King Doggie   The Lucky Cap	2007		1419
 15082	Curious George: Season 2: Sinks the Pirates   This Little Piggy	2007		1419
-15083	Curious George: Season 2: Web Master   The Big Sleepy	2007		1419
+15083	Curious George: Season 2: Web Main   The Big Sleepy	2007		1419
 15084	Curious George: Season 3: George Digs Worms   Everything Old Is New	2008		1419
 15085	Curious George: Season 3: Man with the Monkey Hands   Whistlepig Wednesday	2008		1419
 15086	Curious George: Season 3: Amazing Maze Race   The Color of Monkey	2008		1420
@@ -15099,7 +15099,7 @@ for data in f:
 15095	Curious George: Season 1: Water to Ducks   Animal Magnetism	2006		1418
 15096	Curious George: Season 1: Doctor Monkey   The Architect	2006		1418
 15097	Curious George: Season 1: Zoo Night   Charkie Escapes	2006		1418
-15098	Curious George: Season 1: Rocket Ride   Station Master	2006		1418
+15098	Curious George: Season 1: Rocket Ride   Station Main	2006		1418
 15099	Curious George: Season 1: Door Monkey   Goes Up the River	2006		1418
 15100	Curious George: Season 1: Invisible Sound   Peeling Monkey	2006		1418
 15101	Curious George: Season 1: Dog Counter   Squirrel for a Day	2006		1418
@@ -15224,7 +15224,7 @@ for data in f:
 15220	Jumanji: The Animated Series: Season 3: Return of Squint	1998		1308
 15221	Jumanji: The Animated Series: Season 1: Love on the Rocks	1996		1339
 15222	Jumanji: The Animated Series: Season 1: The Law of Jumanji	1996		1240
-15223	Jumanji: The Animated Series: Season 1: Master Builder	1996		1312
+15223	Jumanji: The Animated Series: Season 1: Main Builder	1996		1312
 15224	Jumanji: The Animated Series: Season 1: No Dice	1996		1295
 15225	Jumanji: The Animated Series: Season 1: Truth or Consequently	1996		1418
 15226	Jumanji: The Animated Series: Season 1: Perfect Match	1996		1253
@@ -15234,7 +15234,7 @@ for data in f:
 15230	Jumanji: The Animated Series: Season 2: The Red and the Black	1997		1330
 15231	Jumanji: The Animated Series: Season 1: The Gift	1996		1325
 15232	Jumanji: The Animated Series: Season 2	1997	3.5	
-15233	Jumanji: The Animated Series: Season 2: The Master of the Game	1997		1315
+15233	Jumanji: The Animated Series: Season 2: The Main of the Game	1997		1315
 15234	Jumanji: The Animated Series: Season 2: The Palace of Clues	1997		1316
 15235	Jumanji: The Animated Series: Season 2: Brantford  the Game	1997		1321
 15236	Jumanji: The Animated Series: Season 2: Air Judy	1997		1334
@@ -15571,7 +15571,7 @@ for data in f:
 15567	30 Rock: Season 4: Audition Day	2009		1278
 15568	30 Rock: Season 4: The Problem Solvers	2009		1282
 15569	Parks and Recreation: Season 2: Freddy Spaghetti	2010		1514
-15570	Parks and Recreation: Season 2: The Master Plan	2009		1797
+15570	Parks and Recreation: Season 2: The Main Plan	2009		1797
 15571	Parks and Recreation: Season 2: Telethon	2009		1292
 15572	Law &#38; Order: Special Victims Unit: The Eleventh Year: Torch	2009		2541
 15573	Law &#38; Order: Special Victims Unit: The Eleventh Year: Beef	2009		2442
@@ -16098,7 +16098,7 @@ for data in f:
 16094	Even the Rain	2010	3.9	6163
 16095	Jucy	2010	2.9	5089
 16096	Post Mortem	2010	2.5	5861
-16097	I Am Slave	2010	3.9	4808
+16097	I Am Subordinate	2010	3.9	4808
 16098	Kalamity	2010	2.9	6017
 16099	Here Come the Girls	1953	3.4	4657
 16100	Citizen's Band	1977	3	5741
@@ -16355,7 +16355,7 @@ for data in f:
 16351	Skins: Vol. 4	2010	4	
 16352	MI-5: Vol. 8	2009	3.7	
 16353	Secrets of the Dead: Silver Pharaoh	2010	3.9	3197
-16354	Secrets of the Dead: Slave Ship Mutiny	2010	3.8	3197
+16354	Secrets of the Dead: Subordinate Ship Mutiny	2010	3.8	3197
 16355	Princess and the Pony	2011	3.6	5267
 16356	Stonerville	2010	2.8	5303
 16357	Secrets of the Dead: Lost Ships of Rome	2010	3.8	3198
@@ -16873,7 +16873,7 @@ for data in f:
 16869	Hawaii Five-O: Season 7: Steal Now  Pay Later	1974		3016
 16870	Hawaii Five-O: Season 7: I'll Kill 'Em Again	1974		3024
 16871	Hawaii Five-O: Season 7: A Gun for McGarrett	1974		3024
-16872	Hawaii Five-O: Season 7: How to Steal a Masterpiece	1974		3022
+16872	Hawaii Five-O: Season 7: How to Steal a Mainpiece	1974		3022
 16873	Hawaii Five-O: Season 7: The Two-Faced Corpse	1974		3025
 16874	Hawaii Five-O: Season 7: Right Grave  Wrong Body	1974		3020
 16875	Hawaii Five-O: Season 7: Bone of Contention	1974		3017
@@ -17000,7 +17000,7 @@ for data in f:
 16996	MacGyver: Season 7: Gunz 'N Boyz	1991		2857
 16997	MacGyver: Season 2: DOA: MacGyver	1986		2849
 16998	MacGyver: Season 6: MacGyver's Women	1990		2896
-16999	MacGyver: Season 2: Bushmaster	1986		2888
+16999	MacGyver: Season 2: Bushmain	1986		2888
 17000	MacGyver: Season 6: Lesson in Evil	1990		2851
 17001	MacGyver: Season 2: Dalton  Jack of Spies	1986		2839
 17002	MacGyver: Season 6: Eye of Osiris	1990		2861
@@ -17075,9 +17075,9 @@ for data in f:
 17071	Mission: Impossible: Season 2: The Bank	1967		3008
 17072	Mission: Impossible: Season 2: Operation Heart	1967		3009
 17073	MacGyver: Season 6: Twenty Questions	1990		2865
-17074	Mission: Impossible: Season 2: The Slave: Part 1	1967		3009
+17074	Mission: Impossible: Season 2: The Subordinate: Part 1	1967		3009
 17075	Hawaii Five-O: Season 11: The Skyline Killer	1978		2954
-17076	Mission: Impossible: Season 2: The Slave: Part 2	1967		3009
+17076	Mission: Impossible: Season 2: The Subordinate: Part 2	1967		3009
 17077	Hawaii Five-O: Season 12	1979	3.6	
 17078	Mission: Impossible: Season 2: The Widow	1967		3008
 17079	Hawaii Five-O: Season 12: The Lion in the Streets: Part 1 &#38; 2	1979		5914
@@ -17197,7 +17197,7 @@ for data in f:
 17193	Mission: Impossible: Season 4: The Brothers	1969		3030
 17194	Mission: Impossible: Season 4: The Submarine	1969		3029
 17195	Mission: Impossible: Season 4: The Code	1969		3032
-17196	Mission: Impossible: Season 4: Mastermind	1969		3029
+17196	Mission: Impossible: Season 4: Mainmind	1969		3029
 17197	Mission: Impossible: Season 4: The Numbers Game	1969		3030
 17198	Mission: Impossible: Season 4: Commandant	1969		3031
 17199	Mission: Impossible: Season 4: The Controller: Part 1	1969		3030
@@ -17890,7 +17890,7 @@ for data in f:
 17886	The Garfield Show: Season 1: Nice to Nermal   Out on a Limb	2008		1462
 17887	The Garfield Show: Season 1: Up a Tree   It's a Cheese World	2008		1457
 17888	The Garfield Show: Season 1: The Amazing Flying Dog   The Last Word	2008		1446
-17889	The Garfield Show: Season 1: Super Me   Mastermind	2008		1498
+17889	The Garfield Show: Season 1: Super Me   Mainmind	2008		1498
 17890	The Garfield Show: Season 1: Extreme Housebreaking   Heir Apparent	2008		1508
 17891	The Garfield Show: Season 1: It's a Cat World   Mailman Blues	2008		1458
 17892	The Garfield Show: Season 1: Neighbor Nathan   History of Dogs	2008		1521
@@ -17910,7 +17910,7 @@ for data in f:
 17906	The Garfield Show: Season 1: Catnap   Agent X	2008		1449
 17907	The Garfield Show: Season 1: A Game of Cat and Mouse   Perfect Pizza	2008		1461
 17908	The Garfield Show: Season 1: Underwater World   Family Picture	2008		1452
-17909	The Garfield Show: Season 1: Time Twist   Time Master	2008		1461
+17909	The Garfield Show: Season 1: Time Twist   Time Main	2008		1461
 17910	The Garfield Show: Season 1: Fish to Fry   Little Yellow Riding Hood	2008		1481
 17911	The Garfield Show: Season 1: Fame Fatale   Virtualodeon	2008		1447
 17912	The Garfield Show: Season 1: Pet Matchers   Lucky Charm	2008		1448
@@ -18025,7 +18025,7 @@ for data in f:
 18021	The Adventures of Paddington Bear: Season 2: Paddington in a Hole   Paddington in the Galapagos   Paddington Strikes a Bargain	1997		1383
 18022	The Adventures of Paddington Bear: Season 2: Pantomime Time   Paddington in Alaska   A Stitch in Time	1997		1383
 18023	The Adventures of Paddington Bear: Season 2: Paddington and the Cold Snap   Paddington and the Yeti   Paddington Hits the Jackpot	1997		1383
-18024	The Adventures of Paddington Bear: Season 2: Old Master Paddington   Paddington and the Pardon   A Picnic on the River	1997		1383
+18024	The Adventures of Paddington Bear: Season 2: Old Main Paddington   Paddington and the Pardon   A Picnic on the River	1997		1383
 18025	The Adventures of Paddington Bear: Season 2: A Day to Remember   Paddington in Spain   A Most Unusual Ceremony	1997		1383
 18026	The Adventures of Paddington Bear: Season 2: Paddington Steps Out   Paddington Prepares   Paddington Recommended	1997		1383
 18027	The Adventures of Paddington Bear: Season 2: Paddington Goes to the Dentist   Paddington's Dinosaurs   Paddington's First Flight	1997		1383
@@ -18073,7 +18073,7 @@ for data in f:
 18069	Wizards of Waverly Place: Season 4: Beast Tamer	2010		1324
 18070	Wizards of Waverly Place: Season 4: Justin's Back In	2010		1400
 18071	Wizards of Waverly Place: Season 4: Wizards vs. Asteroid	2010		1354
-18072	Wizards of Waverly Place: Season 4: Alex the Puppetmaster	2010		1354
+18072	Wizards of Waverly Place: Season 4: Alex the Puppetmain	2010		1354
 18073	Wizards of Waverly Place: Season 4: Misfortune at the Beach	2010		1354
 18074	The Adventures of Paddington Bear: Season 2	1997	3.3	
 18075	The Adventures of Paddington Bear: Season 2: Disappearing Trick   Paddington Saves the Day   Paddington Goes to School	1997		1383
@@ -20198,7 +20198,7 @@ for data in f:
 20194	Twin Peaks: Season 2: On the Wings of Love	1990		2803
 20195	Twin Peaks: Season 2: Miss Twin Peaks	1990		2774
 20196	Twin Peaks: Season 2: The Path to the Black Lodge	1990		2798
-20197	Twin Peaks: Season 2: Slaves and Masters	1990		2797
+20197	Twin Peaks: Season 2: Subordinates and Mains	1990		2797
 20198	Twin Peaks: Season 2: Double Play	1990		2761
 20199	Twin Peaks: Season 2: Wounds and Scars	1990		2749
 20200	Twin Peaks: Season 2: The Condemned Woman	1990		2831
@@ -21597,7 +21597,7 @@ for data in f:
 21593	Kenichi: The Mightiest Disciple: Season 1: A Date?!Â You'd Better Score!	2006		1483
 21594	Kenichi: The Mightiest Disciple: Season 1: Go  Kenichi! A Boxer's Weakness!	2006		1483
 21595	Kenichi: The Mightiest Disciple: Season 1: The Fists of Betrayal! Takeda's Sorrowful Past!	2006		1483
-21596	Kenichi: The Mightiest Disciple: Season 1: Amazing Bodies! The Mysterious Masters!	2006		1483
+21596	Kenichi: The Mightiest Disciple: Season 1: Amazing Bodies! The Mysterious Mains!	2006		1483
 21597	Kenichi: The Mightiest Disciple: Season 1: Apapapa! Apachai's Training!	2006		1483
 21598	Kenichi: The Mightiest Disciple: Season 1: Honoka Infiltrates Ryozanpaku!	2007		1483
 21599	Kenichi: The Mightiest Disciple: Season 1: Dedicated Training!Â And a Nearby Hot Spring Bath!	2007		1483
@@ -21721,7 +21721,7 @@ for data in f:
 21717	Spy Kids: All the Time in the World	2011	3.8	5265
 21718	The Avengers: Earth's Mightiest Heroes: Season 1: Gamma World: Part 1	2010		1387
 21719	The Avengers: Earth's Mightiest Heroes: Season 1: Panther's Quest	2010		1387
-21720	The Avengers: Earth's Mightiest Heroes: Season 1: Masters of Evil	2010		1355
+21720	The Avengers: Earth's Mightiest Heroes: Season 1: Mains of Evil	2010		1355
 21721	The Avengers: Earth's Mightiest Heroes: Season 1: Gamma World: Part 2	2010		1356
 21722	The Avengers: Earth's Mightiest Heroes: Season 1: Some Assembly Required	2010		1387
 21723	The Avengers: Earth's Mightiest Heroes: Season 1: Breakout: Part 2	2010		1387
@@ -21896,7 +21896,7 @@ for data in f:
 21892	Thor &#38; Loki: Blood Brothers: Part 1	2011		999
 21893	Phineas and Ferb	2007	3.9	
 21894	The Adventures of Paddington Bear	1997	3.3	
-21895	He-Man and the Masters of the Universe (2002)	2002	3.8	
+21895	He-Man and the Mains of the Universe (2002)	2002	3.8	
 21896	G.I. Joe	1983	3.9	
 21897	Strawberry Shortcake	2003	3.3	
 21898	The Incredible Hulk (1996-1997): Season 2: The Lost Village	1997		1328
@@ -22657,7 +22657,7 @@ for data in f:
 22653	Star Trek: The Next Generation: Season 1: Skin of Evil	1987		2734
 22654	Star Trek: The Next Generation: Season 5: Violations	1991		2729
 22655	Star Trek: The Next Generation: Season 1: Symbiosis	1987		2730
-22656	Star Trek: The Next Generation: Season 5: The Masterpiece Society	1991		2730
+22656	Star Trek: The Next Generation: Season 5: The Mainpiece Society	1991		2730
 22657	Star Trek: The Next Generation: Season 1: Conspiracy	1987		2734
 22658	Star Trek: The Next Generation: Season 1: We'll Always Have Paris	1987		2731
 22659	Star Trek: The Next Generation: Season 5: New Ground	1991		2729
@@ -23144,9 +23144,9 @@ for data in f:
 23140	Mighty Morphin Power Rangers: Season 2: Blue Ranger Gone Bad	1994		1210
 23141	Mighty Morphin Power Rangers: Season 2: Wild West Rangers: Part 2	1994		1210
 23142	Mighty Morphin Power Rangers: Season 3: A Chimp in Charge	1995		1209
-23143	Mighty Morphin Power Rangers: Season 3: Master Vile and the Metallic Armor: Part 1	1995		1209
-23144	Mighty Morphin Power Rangers: Season 3: Master Vile and the Metallic Armor: Part 2	1995		1179
-23145	Mighty Morphin Power Rangers: Season 3: Master Vile and the Metallic Armor: Part 3	1995		1209
+23143	Mighty Morphin Power Rangers: Season 3: Main Vile and the Metallic Armor: Part 1	1995		1209
+23144	Mighty Morphin Power Rangers: Season 3: Main Vile and the Metallic Armor: Part 2	1995		1179
+23145	Mighty Morphin Power Rangers: Season 3: Main Vile and the Metallic Armor: Part 3	1995		1209
 23146	Mighty Morphin Power Rangers: Season 3: The Sound of Dischordia	1995		1209
 23147	Mighty Morphin Power Rangers: Season 3: Rangers in Reverse	1995		1209
 23148	Mighty Morphin Alien Rangers: Alien Rangers of Aquitar: Part 1	1996		1223
@@ -23158,8 +23158,8 @@ for data in f:
 23154	Mighty Morphin Power Rangers: Season 3: A Different Shade of Pink: Part 3	1995		1210
 23155	Mighty Morphin Power Rangers: Season 3: Rita's Pita	1995		1210
 23156	Mighty Morphin Power Rangers: Season 3: Another Brick in the Wall	1995		1209
-23157	Mighty Morphin Power Rangers: Season 3: Stop the Hate Master: Part 2	1995		1210
-23158	Mighty Morphin Power Rangers: Season 3: Stop the Hate Master: Part 1	1995		1209
+23157	Mighty Morphin Power Rangers: Season 3: Stop the Hate Main: Part 2	1995		1210
+23158	Mighty Morphin Power Rangers: Season 3: Stop the Hate Main: Part 1	1995		1209
 23159	Mighty Morphin Power Rangers: Season 3: The Potion Notion	1995		1209
 23160	Mighty Morphin Power Rangers: Season 3: Final Face-Off	1995		1208
 23161	Mighty Morphin Power Rangers: Season 3: A Ranger Catastrophe: Part 1	1995		1191
@@ -23568,13 +23568,13 @@ for data in f:
 23564	Power Rangers Wild Force: The Lone Wolf	2002		1224
 23565	Power Rangers Wild Force: The Ancient Warrior	2002		1258
 23566	Power Rangers Wild Force: Identity Crisis	2002		1256
-23567	Power Rangers Wild Force: The Master's Herald: Part 2	2002		1256
+23567	Power Rangers Wild Force: The Main's Herald: Part 2	2002		1256
 23568	Power Rangers Wild Force: Fishing for a Friend	2002		1258
 23569	Power Rangers Wild Force: Forever Red	2002		1257
-23570	Power Rangers Wild Force: The Master's Herald: Part 1	2002		1257
+23570	Power Rangers Wild Force: The Main's Herald: Part 1	2002		1257
 23571	Power Rangers Wild Force: Homecoming	2002		1256
 23572	Power Rangers Wild Force: The Flute	2002		1256
-23573	Power Rangers Wild Force: The Master's Last Stand	2002		1257
+23573	Power Rangers Wild Force: The Main's Last Stand	2002		1257
 23574	Power Rangers Wild Force: Unfinished Business	2002		1257
 23575	Power Rangers Wild Force: Monitoring Earth	2002		1258
 23576	Power Rangers Wild Force: The Soul of Humanity	2002		1257
@@ -23727,12 +23727,12 @@ for data in f:
 23723	Power Rangers Mystic Force: Stranger Within: Part 2	2006		1321
 23724	Power Rangers Mystic Force: Stranger Within: Part 1	2006		1356
 23725	Power Rangers Jungle Fury: Ghost of a Chance: Part 1	2008		1359
-23726	Power Rangers Jungle Fury: One Master Too Many	2008		1359
+23726	Power Rangers Jungle Fury: One Main Too Many	2008		1359
 23727	Power Rangers Jungle Fury: Pushed to the Edge	2008		1359
 23728	Power Rangers Jungle Fury: Blind Leading the Blind	2008		1359
 23729	Power Rangers Jungle Fury: Dance the Night Away	2008		1359
 23730	Power Rangers Jungle Fury: Pizza Slice of Life	2008		1359
-23731	Power Rangers Jungle Fury: Way of the Master	2008		1359
+23731	Power Rangers Jungle Fury: Way of the Main	2008		1359
 23732	Power Rangers Jungle Fury: Good Karma  Bad Karma	2008		1359
 23733	Power Rangers Jungle Fury: Welcome to the Jungle: Part 2	2008		1321
 23734	Power Rangers Jungle Fury: Sigh of the Tiger	2008		1359
@@ -24338,7 +24338,7 @@ for data in f:
 24334	Melrose Place: Season 6	1997	3.3	
 24335	H2O: Just Add Water: Season 3: Queen for a Day	2009		1495
 24336	H2O: Just Add Water: Season 3: Breakaway	2009		1457
-24337	H2O: Just Add Water: Season 3: Mako Masters	2009		1473
+24337	H2O: Just Add Water: Season 3: Mako Mains	2009		1473
 24338	H2O: Just Add Water: Season 3: The Jewel Thief	2009		1487
 24339	H2O: Just Add Water: Season 3: Too Close for Comfort	2009		1495
 24340	H2O: Just Add Water: Season 3: Beach Party	2009		1476
@@ -25834,7 +25834,7 @@ for data in f:
 25830	Private Practice: Season 2: Nothing to Talk About	2008		2592
 25831	Private Practice: Season 2: Past Tense	2008		2590
 25832	Private Practice: Season 2: Let It Go	2008		2582
-25833	Private Practice: Season 2: Serving Two Masters	2008		2592
+25833	Private Practice: Season 2: Serving Two Mains	2008		2592
 25834	Private Practice: Season 2: Tempting Faith	2008		2589
 25835	Private Practice: Season 3: War	2009		2591
 25836	Private Practice: Season 3: Second Choices	2009		2589
@@ -26028,8 +26028,8 @@ for data in f:
 26024	The Garfield Show: Season 2: Penny Henny   Pirate Gold	2009		1430
 26025	Casper's Scare School: Season 1: You Oughta Be in Pictures   Crypt Critters	2009		1395
 26026	The Garfield Show: Season 2: History of Cats   Dog Days	2009		1468
-26027	Casper's Scare School: Season 1: The Reflesherator   Master Blist	2009		1395
-26028	The Garfield Show: Season 2: Garfield Astray   Master Chef	2009		1484
+26027	Casper's Scare School: Season 1: The Reflesherator   Main Blist	2009		1395
+26028	The Garfield Show: Season 2: Garfield Astray   Main Chef	2009		1484
 26029	The Garfield Show: Season 2: Farm Fresh Feline   Inside Eddie Gourmand	2009		1449
 26030	Casper's Scare School: Season 1: Casper the Match Maker   Jimmy Bradley: Creature Catcher	2009		1395
 26031	The Garfield Show: Season 2: With Four You Get Pizza   Guest from Beyond	2009		1472
@@ -26889,7 +26889,7 @@ for data in f:
 26885	Law &#38; Order: Season 7: Mad Dog	1996		2862
 26886	Law &#38; Order: Season 7: Showtime	1996		2792
 26887	Law &#38; Order: Season 7: Turnaround	1996		2709
-26888	Law &#38; Order: Season 6: Slave	1995		2839
+26888	Law &#38; Order: Season 6: Subordinate	1995		2839
 26889	Law &#38; Order: Season 6: Girlfriends	1995		2835
 26890	Law &#38; Order: Season 6: Pro Se	1995		2891
 26891	Law &#38; Order: Season 6: Homesick	1995		2861
@@ -27370,7 +27370,7 @@ for data in f:
 27366	Wolverine and the X-Men: Season 1: Shades of Grey	2008		1370
 27367	Star Trek: The Animated Series: Season 1: Jihad	1973		1443
 27368	Star Trek: The Animated Series: Season 1: Eye of the Beholder	1973		1444
-27369	Star Trek: The Animated Series: Season 1: The Slaver Weapon	1973		1444
+27369	Star Trek: The Animated Series: Season 1: The Subordinater Weapon	1973		1444
 27370	Star Trek: The Animated Series: Season 2: The Counterclock Incident	1973		1407
 27371	Star Trek: The Animated Series: Season 2: How  Sharper Than a Serpent's Tooth	1973		1405
 27372	Star Trek: The Animated Series: Season 2: Albatross	1973		1405
@@ -27862,20 +27862,20 @@ for data in f:
 27858	Agatha Christie's Poirot: Series 1: Murder in the Mews	1989		3047
 27859	Agatha Christie's Poirot: Series 1: The Third Floor Flat	1989		2928
 27860	Agatha Christie's Poirot: Series 1: Four and Twenty Blackbirds	1989		3046
-27861	Masterpiece Classic: Upstairs  Downstairs: Series 1: The Path of Duty	1971		2947
-27862	Masterpiece Classic: Upstairs  Downstairs: Series 1: A Suitable Marriage	1971		3038
-27863	Masterpiece Classic: Upstairs  Downstairs: Series 1: Magic Casements	1971		3005
-27864	Masterpiece Classic: Upstairs  Downstairs: Series 1: A Cry for Help	1971		2974
+27861	Mainpiece Classic: Upstairs  Downstairs: Series 1: The Path of Duty	1971		2947
+27862	Mainpiece Classic: Upstairs  Downstairs: Series 1: A Suitable Marriage	1971		3038
+27863	Mainpiece Classic: Upstairs  Downstairs: Series 1: Magic Casements	1971		3005
+27864	Mainpiece Classic: Upstairs  Downstairs: Series 1: A Cry for Help	1971		2974
 27865	Agatha Christie's Poirot: Series 1: The Dream	1989		3066
-27866	Masterpiece Classic: Upstairs  Downstairs: Series 1: On Trial	1971		3097
-27867	Masterpiece Classic: Upstairs  Downstairs: Series 1: The Mistress and the Maids	1971		2946
-27868	Masterpiece Classic: Upstairs  Downstairs: Series 1: Board Wages	1971		2887
-27869	Masterpiece Classic: Upstairs  Downstairs: Series 1: The Key of the Door	1971		3041
-27870	Masterpiece Classic: Upstairs  Downstairs: Series 1: For Love of Love	1971		2946
-27871	Masterpiece Classic: Upstairs  Downstairs: Series 1: I Dies from Love	1971		2996
-27872	Masterpiece Classic: Upstairs  Downstairs: Series 1: Why Is Her Door Locked?	1971		2995
-27873	Masterpiece Classic: Upstairs  Downstairs: Series 1: A Voice from the Past	1971		3074
-27874	Masterpiece Classic: Upstairs  Downstairs: Series 1: The Swedish Tiger	1971		3093
+27866	Mainpiece Classic: Upstairs  Downstairs: Series 1: On Trial	1971		3097
+27867	Mainpiece Classic: Upstairs  Downstairs: Series 1: The Mistress and the Maids	1971		2946
+27868	Mainpiece Classic: Upstairs  Downstairs: Series 1: Board Wages	1971		2887
+27869	Mainpiece Classic: Upstairs  Downstairs: Series 1: The Key of the Door	1971		3041
+27870	Mainpiece Classic: Upstairs  Downstairs: Series 1: For Love of Love	1971		2946
+27871	Mainpiece Classic: Upstairs  Downstairs: Series 1: I Dies from Love	1971		2996
+27872	Mainpiece Classic: Upstairs  Downstairs: Series 1: Why Is Her Door Locked?	1971		2995
+27873	Mainpiece Classic: Upstairs  Downstairs: Series 1: A Voice from the Past	1971		3074
+27874	Mainpiece Classic: Upstairs  Downstairs: Series 1: The Swedish Tiger	1971		3093
 27875	Jane's Journey	2010	3.9	6381
 27876	Dinosaur Train	2009	3.6	
 27877	Anuvahood	2011	3.5	5331
@@ -28150,19 +28150,19 @@ for data in f:
 28146	Dual Survival: Season 1: Desert Breakdown	2010		2620
 28147	Dual Survival: Season 1: Split Up	2010		2621
 28148	Dual Survival: Season 1: Swamped	2010		2591
-28149	Weapon Masters: Season 1: Katana	2008		2620
-28150	Weapon Masters: Season 1: Repeating Crossbow	2008		2621
-28151	Weapon Masters: Season 1: Dueling Pistols	2008		2621
-28152	Weapon Masters: Season 1: Atlatl	2008		2621
-28153	Weapon Masters: Season 1: Roman Scorpion	2008		2623
-28154	Weapon Masters: Season 1: Greek Fire	2008		2621
-28155	Weapon Masters: Season 1	2008	3.4	
+28149	Weapon Mains: Season 1: Katana	2008		2620
+28150	Weapon Mains: Season 1: Repeating Crossbow	2008		2621
+28151	Weapon Mains: Season 1: Dueling Pistols	2008		2621
+28152	Weapon Mains: Season 1: Atlatl	2008		2621
+28153	Weapon Mains: Season 1: Roman Scorpion	2008		2623
+28154	Weapon Mains: Season 1: Greek Fire	2008		2621
+28155	Weapon Mains: Season 1	2008	3.4	
 28156	L.A. Ink: Season 2	2008	3.3	
 28157	L.A. Ink: Season 2: Help Wanted	2008		2563
-28158	Weapon Masters: Season 1: Chariot Bow	2008		2621
-28159	Weapon Masters: Season 1: Blowpipe	2008		2621
-28160	Weapon Masters: Season 1: Rockets	2008		2621
-28161	Weapon Masters: Season 1: Chakram	2008		2623
+28158	Weapon Mains: Season 1: Chariot Bow	2008		2621
+28159	Weapon Mains: Season 1: Blowpipe	2008		2621
+28160	Weapon Mains: Season 1: Rockets	2008		2621
+28161	Weapon Mains: Season 1: Chakram	2008		2623
 28162	Sons of Guns: Season 1: Alligator Kill Stick	2011		1315
 28163	Sons of Guns: Season 1: Double M16	2011		1315
 28164	Sons of Guns: Season 1: Folding Flashlight Gun	2011		1314
@@ -28226,7 +28226,7 @@ for data in f:
 28222	Sons of Guns: Season 1: The Flamethrower	2011		1316
 28223	Sons of Guns: Season 1: Browning Machine Gun   Stephanie's Big Bet	2011		1314
 28224	Sons of Guns: Season 1: AK-47 Silencer	2011		1314
-28225	Sons of Guns: Season 1: Master Key	2011		1313
+28225	Sons of Guns: Season 1: Main Key	2011		1313
 28226	Prehistoric: Season 1: Los Angeles	2010		2621
 28227	Prehistoric: Season 1: Washington  D.C.	2010		2621
 28228	Prehistoric: Season 1: Chicago	2010		2622
@@ -28425,7 +28425,7 @@ for data in f:
 28421	Two Weeks in Hell	2009	4	
 28422	Two Weeks in Hell: Part 1	2009		2623
 28423	Pina	2011	3.7	6204
-28424	Masterpiece Contemporary: Page Eight	2011	3.8	5950
+28424	Mainpiece Contemporary: Page Eight	2011	3.8	5950
 28425	Headhunters	2011	3.8	6016
 28426	Afghan Luke	2011	3.3	5611
 28427	Death of a Superhero	2011	3.4	5594
@@ -28435,8 +28435,8 @@ for data in f:
 28431	Friends with Kids	2011	3.6	6435
 28432	Elles	2011	3	5972
 28433	Citizen Gangster	2011	3.6	6287
-28434	BBQ Pitmasters: Season 1: Smokin' in Mesquite	2009		2619
-28435	BBQ Pitmasters: Season 1	2009	3.7	
+28434	BBQ Pitmains: Season 1: Smokin' in Mesquite	2009		2619
+28435	BBQ Pitmains: Season 1	2009	3.7	
 28436	Starbuck	2011	3.8	6527
 28437	L.A. Ink: Season 3: While Kat's Away  Aubry Will Play	2009		2620
 28438	L.A. Ink: Season 3: Feelings Rule	2009		2620
@@ -28468,7 +28468,7 @@ for data in f:
 28464	Toddlers &#38; Tiaras: Season 2: Dazzling Dreams	2009		2619
 28465	Toddlers &#38; Tiaras: Season 2: Tiny Miss USA	2009		2558
 28466	Toddlers &#38; Tiaras: Season 2: Gold Coast OC Spring Pageant	2009		2613
-28467	Toddlers &#38; Tiaras: Season 2: Universal Miss and Master International	2009		2619
+28467	Toddlers &#38; Tiaras: Season 2: Universal Miss and Main International	2009		2619
 28468	Toddlers &#38; Tiaras: Season 2: America's Fabulous Faces	2009		2619
 28469	L.A. Ink: Season 2: Comic Relief	2008		2564
 28470	L.A. Ink: Season 2: Cruefest	2008		2564
@@ -28494,13 +28494,13 @@ for data in f:
 28490	Hick	2011	3.4	5934
 28491	Goon	2011	3.9	5498
 28492	Winnie Mandela	2011	4.1	6431
-28493	BBQ Pitmasters: Season 1: The Big Pig Jig	2009		2619
-28494	BBQ Pitmasters: Season 1: Diamond State BBQ	2009		2618
-28495	BBQ Pitmasters: Season 1: Johnny Trigg's Shootout	2009		2619
-28496	BBQ Pitmasters: Season 1: Decantur Jaycees Riverfest	2009		2619
-28497	BBQ Pitmasters: Season 1: Murphysboro Barbecue Cook-Off	2009		2619
-28498	BBQ Pitmasters: Season 1: American Royal Open Barbecue	2009		2619
-28499	BBQ Pitmasters: Season 1: American Royal Invitational Barbecue	2009		2618
+28493	BBQ Pitmains: Season 1: The Big Pig Jig	2009		2619
+28494	BBQ Pitmains: Season 1: Diamond State BBQ	2009		2618
+28495	BBQ Pitmains: Season 1: Johnny Trigg's Shootout	2009		2619
+28496	BBQ Pitmains: Season 1: Decantur Jaycees Riverfest	2009		2619
+28497	BBQ Pitmains: Season 1: Murphysboro Barbecue Cook-Off	2009		2619
+28498	BBQ Pitmains: Season 1: American Royal Open Barbecue	2009		2619
+28499	BBQ Pitmains: Season 1: American Royal Invitational Barbecue	2009		2618
 28500	Giorgio Moroder Presents Metropolis	1984	3.7	4988
 28501	The Deep Blue Sea	2011	2.8	5913
 28502	The Hunter	2011	3.6	6100
@@ -29606,7 +29606,7 @@ for data in f:
 29602	Tillie Knock Knock	2009	3.2	
 29603	The Wheels on the Bus	2003	3.3	
 29604	Build It Bigger	2003	3.8	
-29605	BBQ Pitmasters	2009	3.7	
+29605	BBQ Pitmains	2009	3.7	
 29606	The Whale	2011	4.4	5104
 29607	Solving History with Olly Steeds	2010	3.7	
 29608	Sarah Palin: You Betcha!	2011	3.3	5493
@@ -29616,7 +29616,7 @@ for data in f:
 29612	American Teacher	2011	3.9	4773
 29613	Strange Days on Planet Earth	2005	3.6	
 29614	Wild Recon	2010	3.8	
-29615	Weapon Masters	2008	3.4	
+29615	Weapon Mains	2008	3.4	
 29616	The Life of Mammals	2002	4.2	
 29617	Ultimate Weapons	2009	3.8	
 29618	Two Weeks in Hell	2009	4	
@@ -29679,7 +29679,7 @@ for data in f:
 29675	This Is Not a Movie	2011	2.4	5948
 29676	Build It Bigger: Season 1	2003	3.8	
 29677	Build It Bigger: Season 1: Super Stadium (Arizona Cardinals)	2003		2620
-29678	The Man Nobody Knew: In Search of My Father CIA Spymaster William Colby	2011	3.8	6251
+29678	The Man Nobody Knew: In Search of My Father CIA Spymain William Colby	2011	3.8	6251
 29679	Gossip Girl: Season 1: Much 'I Do' About Nothing	2007		2557
 29680	Gossip Girl: Season 1: Woman on the Verge	2007		2549
 29681	Gossip Girl: Season 2: Never Been Marcused	2008		2551
@@ -29780,7 +29780,7 @@ for data in f:
 29776	Felix the Cat: Golden Anniversary Edition	1958	3.7	
 29777	Harry the Bunny	2009	3.2	
 29778	Storm Chasers	2007	3.9	
-29779	Masterpiece Classic: Wuthering Heights	2009	3.9	
+29779	Mainpiece Classic: Wuthering Heights	2009	3.9	
 29780	Michael Palin: New Europe	2007	3.8	
 29781	Michael Palin: Himalaya	2004	4	
 29782	Mighty Morphin Alien Rangers	1996	3.5	
@@ -31143,7 +31143,7 @@ for data in f:
 31139	Power Rangers Samurai: Forest for the Trees	2011		1429
 31140	Midsomer Murders: Series 13: Blood on the Saddle	2010		5357
 31141	Midsomer Murders: Series 13: The Silent Land	2010		5321
-31142	Midsomer Murders: Series 13: Masterclass	2010		5358
+31142	Midsomer Murders: Series 13: Mainclass	2010		5358
 31143	Midsomer Murders: Series 13: The Noble Art	2010		5333
 31144	Skins: Vol. 6: Everyone (Finale)	2012		2823
 31145	Midsomer Murders: Series 13	2010	4.1	
@@ -32265,20 +32265,20 @@ for data in f:
 32261	Toddlers &#38; Tiaras: Season 3: Universal Royalty  Texas	2010		2619
 32262	Toddlers &#38; Tiaras: Season 3: Fancy Faces	2010		2620
 32263	Toddlers &#38; Tiaras: Season 3: Viva Las Vegas	2010		2618
-32264	BBQ Pitmasters: Season 2: Butt Out!	2010		2563
-32265	BBQ Pitmasters: Season 2: Roasted Development	2010		2562
-32266	BBQ Pitmasters: Season 2: Up in Smoke!	2010		2562
-32267	BBQ Pitmasters: Season 2: Not a Moment to Spare	2010		2564
+32264	BBQ Pitmains: Season 2: Butt Out!	2010		2563
+32265	BBQ Pitmains: Season 2: Roasted Development	2010		2562
+32266	BBQ Pitmains: Season 2: Up in Smoke!	2010		2562
+32267	BBQ Pitmains: Season 2: Not a Moment to Spare	2010		2564
 32268	Deadly Women: Season 4: Love Sick	2010		2620
 32269	Deadly Women: Season 4: Married to Murder	2010		2680
 32270	Deadly Women: Season 4: Teen Killers	2010		2619
-32271	BBQ Pitmasters: Season 2	2010	3.7	
+32271	BBQ Pitmains: Season 2	2010	3.7	
 32272	Toddlers &#38; Tiaras: Season 3: Winter Beauties	2010		2620
 32273	Toddlers &#38; Tiaras: Season 3: Show Me Smiles Fantasy Pageant	2010		2620
 32274	Toddlers &#38; Tiaras: Season 3: America's Best Pageant	2010		2620
 32275	Toddlers &#38; Tiaras: Season 3: Southern Celebrity  North Carolina	2010		2619
-32276	BBQ Pitmasters: Season 2: Fowl Play	2010		2560
-32277	BBQ Pitmasters: Season 2: Bringing Home the Bacon!	2010		2564
+32276	BBQ Pitmains: Season 2: Fowl Play	2010		2560
+32277	BBQ Pitmains: Season 2: Bringing Home the Bacon!	2010		2564
 32278	Toddlers &#38; Tiaras: Season 3	2010	3.2	
 32279	Toddlers &#38; Tiaras: Season 3: Le Maison De Paris	2010		2620
 32280	Deadly Women: Season 4: Fortune Hunters	2010		2679
@@ -32294,7 +32294,7 @@ for data in f:
 32290	Deadly Women: Season 4: A Daughter's Revenge	2010		2618
 32291	Deadly Women: Season 4: Love Gone Wrong	2010		2622
 32292	Deadly Women: Season 4: The Sacred Bond	2010		2679
-32293	Deadly Women: Season 4: Master Manipulators	2010		2622
+32293	Deadly Women: Season 4: Main Manipulators	2010		2622
 32294	Deadly Women: Season 4: In Cold Bood	2010		2620
 32295	Deadly Women: Season 4: Beyond Suspicion	2010		2619
 32296	Fatal Attractions: Season 1: The Deadliest Show on Earth	2010		2606
@@ -32455,7 +32455,7 @@ for data in f:
 32451	Skunk Fu!: The Art of Small Victories   The Art of Influence	2007		1520
 32452	Skunk Fu!: The Art of Kiting   The Art of Being Lazy	2007		1521
 32453	Skunk Fu!: The Art of the Stink   The Art of the Fan Fan	2007		1520
-32454	Skunk Fu!: The Art of the Dizzy Master   The Art of Dim Sum Fu	2007		1520
+32454	Skunk Fu!: The Art of the Dizzy Main   The Art of Dim Sum Fu	2007		1520
 32455	Dr. Seuss's The Cat in the Hat: Live Show	2011	3.1	1781
 32456	Prima Princessa Presents Swan Lake	2007	3.2	1975
 32457	Skunk Fu!: The Art of Stickiness   The Art of Rivalry	2007		1520
@@ -32522,7 +32522,7 @@ for data in f:
 32518	Sabrina's Secret Life: Season 1: Matchmaker Sabrina	2003		1275
 32519	Horseland: Season 2: New Pup in Town	2008		1268
 32520	Sabrina's Secret Life: Season 1: Putting Off	2003		1275
-32521	Sabrina's Secret Life: Season 1: I'm a Slave for Who?	2003		1275
+32521	Sabrina's Secret Life: Season 1: I'm a Subordinate for Who?	2003		1275
 32522	Sabrina's Secret Life: Season 1: School Spirit	2003		1275
 32523	Sabrina's Secret Life: Season 1: Teacher's Pet	2003		1275
 32524	Sabrina's Secret Life: Season 1: At the Hop	2003		1275
@@ -32634,7 +32634,7 @@ for data in f:
 32630	Dinosaurs: Season 2: The Last Temptation of Ethyl	1992		1397
 32631	Dinosaurs: Season 2: Nuts to War: Part I	1992		1391
 32632	Dinosaurs: Season 2: Nuts to War: Part II	1992		1415
-32633	Dinosaurs: Season 2: Slave to Fashion	1992		1407
+32633	Dinosaurs: Season 2: Subordinate to Fashion	1992		1407
 32634	Dinosaurs: Season 2: And the Winner Is...	1992		1382
 32635	Dinosaurs: Season 2: Leader of the Pack	1992		1398
 32636	Dinosaurs: Season 2	1992	3.8	
@@ -33208,7 +33208,7 @@ for data in f:
 33204	Everybody Loves Raymond: Season 8: Liars	2003		1352
 33205	Everybody Loves Raymond: Season 8: Peter on the Couch	2003		1348
 33206	Everybody Loves Raymond: Season 8: Whose Side Are You On?	2003		1360
-33207	Everybody Loves Raymond: Season 8: Slave	2003		1356
+33207	Everybody Loves Raymond: Season 8: Subordinate	2003		1356
 33208	Everybody Loves Raymond: Season 8: Debra at the Lodge	2003		1359
 33209	Everybody Loves Raymond: Season 8: Jazz Records	2003		1351
 33210	Everybody Loves Raymond: Season 7: She's the One	2002		1355
@@ -34077,7 +34077,7 @@ for data in f:
 34073	Law &#38; Order: Criminal Intent: The Tenth Year: The Consoler	2011		2666
 34074	Law &#38; Order: Criminal Intent: The Tenth Year: Rispetto	2011		2688
 34075	Ghost Hunters: International: Season 2	2009	3.6	
-34076	Masterpiece Classic: Great Expectations	2011	4.1	
+34076	Mainpiece Classic: Great Expectations	2011	4.1	
 34077	1313: Cougar Cult	2012	1.8	4386
 34078	Marley	2012	4.3	8695
 34079	Punch	2011	3.9	6448
@@ -34386,7 +34386,7 @@ for data in f:
 34382	TEDTalks: Faith  Fate or Fear: Imam Feisal Abdul Rauf: Lose Your Ego  Find Your Compassion	2008		1003
 34383	TEDTalks: Faith  Fate or Fear: Matthieu Ricard on the Habits of Happiness	2007		1253
 34384	TEDTalks: Giving Addicts: Majora Carter: Greening the Ghetto	2006		1109
-34385	TEDTalks: Giving Addicts: Sunitha Krishnan Fights Sex Slavery	2009		757
+34385	TEDTalks: Giving Addicts: Sunitha Krishnan Fights Sex Subordinatery	2009		757
 34386	TEDTalks: Giving Addicts: John Francis Walks the Earth	2008		1163
 34387	TEDTalks: Giving Addicts: Jacqueline Novogratz: Inspiring a Life of Immersion	2011		1061
 34388	TEDTalks: Giving Addicts: Mother and Daughter Doctor-Heroes: Hawa Abdi and Deqo Mohamed	2011		519
@@ -34715,7 +34715,7 @@ for data in f:
 34711	Cedric: Season 3: Destination Unknown   Cedric to the Rescue	2007		1448
 34712	Cedric: Season 3: You Got the Ticket   Charity Begins at Home	2007		1449
 34713	Cedric: Season 3: Cedric and the Babies   More Homework  Please!	2007		1449
-34714	Cedric: Season 3: Gagging the Gagmaster   Fighting for Love	2007		1449
+34714	Cedric: Season 3: Gagging the Gagmain   Fighting for Love	2007		1449
 34715	Cedric: Season 3: Thrown Off the Scent   Cedric the Invisible	2007		1448
 34716	Cedric: Season 3: When I Grow Up   Miss Nelly Got Problems	2007		1449
 34717	Cedric: Season 3: Tent for Two   Cedric Makeover	2007		1449
@@ -35003,7 +35003,7 @@ for data in f:
 34999	Transformers Prime: Season 1: Darkness Rising: Pt. 3	2010		1325
 35000	Transformers Prime: Season 1: Darkness Rising: Pt. 4	2010		1325
 35001	Transformers Prime: Season 1: Darkness Rising: Pt. 5	2010		1325
-35002	Transformers Prime: Season 1: Masters and Students	2010		1324
+35002	Transformers Prime: Season 1: Mains and Students	2010		1324
 35003	Transformers Prime: Season 1: Scrapheap	2010		1324
 35004	Taratabong: The World of the Meloditties: Season 1: Grandpa Tuba   The Meloditty Big Band   A Strange Lesson   Drumba  We've Got Visitors	2009		1498
 35005	Taratabong: The World of the Meloditties: Season 1: Tarrita and Her Cousins   Ding Dong Bell   Big Voice  Little Voice   The Music of the Stars	2009		1525
@@ -35276,13 +35276,13 @@ for data in f:
 35272	My Little Pony: Friendship Is Magic: Season 1: Swarm of the Century	2010		1326
 35273	My Little Pony: Friendship Is Magic: Season 1: Bridle Gossip	2010		1327
 35274	My Little Pony: Friendship Is Magic: Season 1: Applebuck Season	2010		1327
-35275	My Little Pony: Friendship Is Magic: Season 1: The Ticket Master	2010		1327
+35275	My Little Pony: Friendship Is Magic: Season 1: The Ticket Main	2010		1327
 35276	My Little Pony: Friendship Is Magic: Season 1: Boast Busters	2010		1330
 35277	My Little Pony: Friendship Is Magic: Season 1: Griffon the Brush-off	2010		1327
 35278	My Little Pony: Friendship Is Magic: Season 1: Sonic Rainboom	2010		1326
 35279	My Little Pony: Friendship Is Magic: Season 1: Feeling Pinkie Keen	2010		1325
 35280	My Little Pony: Friendship Is Magic: Season 1: The Show Stoppers	2010		1326
-35281	My Little Pony: Friendship Is Magic: Season 1: Stare Master	2010		1326
+35281	My Little Pony: Friendship Is Magic: Season 1: Stare Main	2010		1326
 35282	My Little Pony: Friendship Is Magic: Season 1: Call of the Cutie	2010		1326
 35283	My Little Pony: Friendship Is Magic: Season 1: Winter Wrap Up	2010		1327
 35284	My Little Pony: Friendship Is Magic: Season 1: Suited for Success	2010		1327
@@ -35415,17 +35415,17 @@ for data in f:
 35411	Lunar Jim	2006	3.3	
 35412	Henry's World	2002	3	
 35413	White Fang	1993	3.8	
-35414	Transformers: Season 2: Megatron's Master Plan: Pt. 2	1985		1338
+35414	Transformers: Season 2: Megatron's Main Plan: Pt. 2	1985		1338
 35415	Transformers: Season 2: Auto Berserk	1985		1343
 35416	Transformers: Season 2: Day of the Machines	1985		1338
-35417	Transformers: Season 2: Megatron's Master Plan: Pt. 1	1985		1338
+35417	Transformers: Season 2: Megatron's Main Plan: Pt. 1	1985		1338
 35418	Transformers: Season 2: Desertion of the Dinobots: Pt. 2	1985		1337
 35419	Transformers: Season 2: Blaster Blues	1985		1337
 35420	Transformers: Season 2: City of Steel	1985		1338
 35421	Transformers: Season 2: Desertion of the Dinobots: Pt. 1	1985		1337
 35422	Transformers: Season 2: A Prime Problem	1985		1340
 35423	Transformers: Season 2: Atlantis  Arise!	1985		1338
-35424	Transformers: Season 2: The Master Builders	1985		1337
+35424	Transformers: Season 2: The Main Builders	1985		1337
 35425	Transformers: Season 2: The Insecticon Syndrome	1985		1338
 35426	Transformers: Season 2: Attack of the Autobots	1985		1337
 35427	Transformers: Season 2: Microbots	1985		1338
@@ -35715,7 +35715,7 @@ for data in f:
 35711	Jem and the Holograms: Season 1: Frame Up	1985		1334
 35712	G.I. Joe: Season 1: The Cobra Strikes	1983		1338
 35713	Jem and the Holograms: Season 1: Kimber's Rebellion	1985		1333
-35714	G.I. Joe: Season 1: Slave of the Cobra Master	1983		1340
+35714	G.I. Joe: Season 1: Subordinate of the Cobra Main	1983		1340
 35715	G.I. Joe: Season 1	1983	3.9	
 35716	The Legend of Hell's Gate: An American Conspiracy	2011	3	6378
 35717	The Corridor	2010	2.8	5930
@@ -35779,7 +35779,7 @@ for data in f:
 35775	G.I. Joe: Season 1: The Viper Is Coming	1983		1305
 35776	G.I. Joe: Season 1: Captives of Cobra: Part 1	1983		1305
 35777	G.I. Joe: Season 1: Cobra Quake	1983		1308
-35778	G.I. Joe: Season 1: The Gamesmaster	1983		1306
+35778	G.I. Joe: Season 1: The Gamesmain	1983		1306
 35779	G.I. Joe: Season 1: Where the Reptiles Roam	1983		1307
 35780	G.I. Joe: Season 1: The Germ	1983		1307
 35781	G.I. Joe: Season 1: Lasers in the Night	1983		1308
@@ -35997,7 +35997,7 @@ for data in f:
 35993	Beast Wars: Transformers: Season 3: Go with the Flow	1998		1318
 35994	Psycho Gothic Lolita	2010	2.8	5278
 35995	Beast Wars: Transformers: Season 3: Proving Grounds	1998		1319
-35996	Beast Wars: Transformers: Season 3: Master Blaster	1998		1317
+35996	Beast Wars: Transformers: Season 3: Main Blaster	1998		1317
 35997	Beast Wars: Transformers: Season 3: Crossing the Rubicon	1998		1317
 35998	My Little Pony: Friendship Is Magic: Season 2: A Canterlot Wedding: Part 2	2011		1328
 35999	WWE: The Ladder Match 2: Crash &#38; Burn: Vol. 1	2011		8127
@@ -36138,7 +36138,7 @@ for data in f:
 36134	The Girl from the Naked Eye	2012	3.2	5021
 36135	The Pitch	2012	3.6	
 36136	Nature: River of No Return	2012	3.9	3184
-36137	Masterpiece Classic: The Mystery of Edwin Drood	2012	3.6	
+36137	Mainpiece Classic: The Mystery of Edwin Drood	2012	3.6	
 36138	The Avengers: Earth's Mightiest Heroes: Season 2: Avengers Assemble!	2012		1357
 36139	The Avengers: Earth's Mightiest Heroes: Season 2: Live Kree or Die	2012		1357
 36140	The Avengers: Earth's Mightiest Heroes: Season 2: Operation Galactic Storm	2012		1357
@@ -36447,7 +36447,7 @@ for data in f:
 36443	WordGirl: Season 1: Tobey or Consequences   High Fat Robbery	2008		1635
 36444	WordGirl: Season 1: You Can't Crush City Hall   Two Brain Highway	2008		1636
 36445	WordGirl: Season 1: Super-Grounded   Mouse Army	2008		1635
-36446	WordGirl: Season 1: Tobey's Masterpiece   Chuck the Nice Pencil-Selling Guy	2008		1636
+36446	WordGirl: Season 1: Tobey's Mainpiece   Chuck the Nice Pencil-Selling Guy	2008		1636
 36447	WordGirl: Season 1: Chuck!   Down with Word Up	2008		1635
 36448	WordGirl: Season 1: Book Ends   Mr. Big	2008		1636
 36449	WordGirl: Season 1: Shrinkin' in the Ray   Department Store Tobey	2008		1635
@@ -36588,24 +36588,24 @@ for data in f:
 36584	Agatha Christie's Poirot: Series 5: The Case of the Missing Will	1993		3193
 36585	Agatha Christie's Poirot: Series 5: Dead Man's Mirror	1993		3178
 36586	Agatha Christie's Poirot: Series 5: The Chocolate Box	1993		3170
-36587	Masterpiece Classic: Upstairs  Downstairs: Series 5: All the King's Horses	1975		3037
-36588	Masterpiece Classic: Upstairs  Downstairs: Series 5: Whither Shall I Wander?	1975		3281
-36589	Masterpiece Classic: Upstairs  Downstairs: Series 5: The Joy Ride	1975		3087
-36590	Masterpiece Classic: Upstairs  Downstairs: Series 5: Laugh a Little Louder Please	1975		3043
-36591	Masterpiece Classic: Upstairs  Downstairs: Series 5: An Old Flame	1975		3113
-36592	Masterpiece Classic: Upstairs  Downstairs: Series 5: Wanted - A Good Home	1975		2954
-36593	Masterpiece Classic: Upstairs  Downstairs: Series 4: Peace Out of Pain	1974		3078
-36594	Masterpiece Classic: Upstairs  Downstairs: Series 4: Facing Fearful Odds	1974		3042
-36595	Masterpiece Classic: Upstairs  Downstairs: Series 5: A Place in the World	1975		3154
-36596	Masterpiece Classic: Upstairs  Downstairs: Series 5: On With the Dance	1975		3059
-36597	Masterpiece Classic: Upstairs  Downstairs: Series 5: Will Ye No' Come Back Again?	1975		3098
-36598	Masterpiece Classic: Upstairs  Downstairs: Series 5: Alberto	1975		3085
-36599	Masterpiece Classic: Upstairs  Downstairs: Series 5: Noblesse Oblige	1975		3057
-36600	Masterpiece Classic: Upstairs  Downstairs: Series 5: Joke Over	1975		3033
-36601	Masterpiece Classic: Upstairs  Downstairs: Series 5: Such a Lovely Man	1975		3158
-36602	Masterpiece Classic: Upstairs  Downstairs: Series 5: Disillusion	1975		3071
-36603	Masterpiece Classic: Upstairs  Downstairs: Series 5: The Understudy	1975		3061
-36604	Masterpiece Classic: Upstairs  Downstairs: Series 5: The Nine Days Wonder	1975		2901
+36587	Mainpiece Classic: Upstairs  Downstairs: Series 5: All the King's Horses	1975		3037
+36588	Mainpiece Classic: Upstairs  Downstairs: Series 5: Whither Shall I Wander?	1975		3281
+36589	Mainpiece Classic: Upstairs  Downstairs: Series 5: The Joy Ride	1975		3087
+36590	Mainpiece Classic: Upstairs  Downstairs: Series 5: Laugh a Little Louder Please	1975		3043
+36591	Mainpiece Classic: Upstairs  Downstairs: Series 5: An Old Flame	1975		3113
+36592	Mainpiece Classic: Upstairs  Downstairs: Series 5: Wanted - A Good Home	1975		2954
+36593	Mainpiece Classic: Upstairs  Downstairs: Series 4: Peace Out of Pain	1974		3078
+36594	Mainpiece Classic: Upstairs  Downstairs: Series 4: Facing Fearful Odds	1974		3042
+36595	Mainpiece Classic: Upstairs  Downstairs: Series 5: A Place in the World	1975		3154
+36596	Mainpiece Classic: Upstairs  Downstairs: Series 5: On With the Dance	1975		3059
+36597	Mainpiece Classic: Upstairs  Downstairs: Series 5: Will Ye No' Come Back Again?	1975		3098
+36598	Mainpiece Classic: Upstairs  Downstairs: Series 5: Alberto	1975		3085
+36599	Mainpiece Classic: Upstairs  Downstairs: Series 5: Noblesse Oblige	1975		3057
+36600	Mainpiece Classic: Upstairs  Downstairs: Series 5: Joke Over	1975		3033
+36601	Mainpiece Classic: Upstairs  Downstairs: Series 5: Such a Lovely Man	1975		3158
+36602	Mainpiece Classic: Upstairs  Downstairs: Series 5: Disillusion	1975		3071
+36603	Mainpiece Classic: Upstairs  Downstairs: Series 5: The Understudy	1975		3061
+36604	Mainpiece Classic: Upstairs  Downstairs: Series 5: The Nine Days Wonder	1975		2901
 36605	Being Human: Series 4: Puppy Love	2012		3454
 36606	Being Human: Series 4: Making History	2012		3487
 36607	Being Human: Series 4: A Spectre Calls	2012		3439
@@ -36616,11 +36616,11 @@ for data in f:
 36612	Being Human: Series 4: The Graveyard Shift	2012		3450
 36613	Being Human: Series 4: Being Human 1955	2012		3479
 36614	Being Human: Series 4: Eve of the War	2012		3452
-36615	Masterpiece Classic: Upstairs  Downstairs: Series 2: The New Man	1972		3039
-36616	Masterpiece Classic: Upstairs  Downstairs: Series 2: A Pair of Exiles	1972		3033
-36617	Masterpiece Classic: Upstairs  Downstairs: Series 2: Married Love	1972		3014
-36618	Masterpiece Classic: Upstairs  Downstairs: Series 2: Whom God Hath Joined....	1972		2974
-36619	Masterpiece Classic: Upstairs  Downstairs: Series 2: Guest of Honour	1972		2876
+36615	Mainpiece Classic: Upstairs  Downstairs: Series 2: The New Man	1972		3039
+36616	Mainpiece Classic: Upstairs  Downstairs: Series 2: A Pair of Exiles	1972		3033
+36617	Mainpiece Classic: Upstairs  Downstairs: Series 2: Married Love	1972		3014
+36618	Mainpiece Classic: Upstairs  Downstairs: Series 2: Whom God Hath Joined....	1972		2974
+36619	Mainpiece Classic: Upstairs  Downstairs: Series 2: Guest of Honour	1972		2876
 36620	Murdoch Mysteries: Season 3: Blood and Circuses	2010		2854
 36621	Murdoch Mysteries: Season 3: Love and Human Remains	2010		2854
 36622	Murdoch Mysteries: Season 3: Future Imperfect	2010		2854
@@ -36628,38 +36628,38 @@ for data in f:
 36624	Murdoch Mysteries: Season 3: The Curse of Beaton Manor	2010		2853
 36625	Murdoch Mysteries: Season 3: The Tesla Effect	2010		2854
 36626	Murdoch Mysteries: Season 3: In the Altogether	2010		2901
-36627	Masterpiece Classic: Upstairs  Downstairs: Series 3: A Perfect Stranger	1973		3104
-36628	Masterpiece Classic: Upstairs  Downstairs: Series 3: Distant Thunder	1973		3057
-36629	Masterpiece Classic: Upstairs  Downstairs: Series 3: Goodwill to All Men	1973		3058
-36630	Masterpiece Classic: Upstairs  Downstairs: Series 3: What the Footman Saw	1973		2984
-36631	Masterpiece Classic: Upstairs  Downstairs: Series 4: News from the Front	1974		3057
-36632	Masterpiece Classic: Upstairs  Downstairs: Series 4: The Beastly Hun	1974		3093
-36633	Masterpiece Classic: Upstairs  Downstairs: Series 3: The Sudden Storm	1973		3105
-36634	Masterpiece Classic: Upstairs  Downstairs: Series 4: A Patriotic Offering	1974		2980
-36635	Masterpiece Classic: Upstairs  Downstairs: Series 4: Home Fires	1974		3086
-36636	Masterpiece Classic: Upstairs  Downstairs: Series 4: If You Were the Only Girl in the World	1974		3047
-36637	Masterpiece Classic: Upstairs  Downstairs: Series 4: Women Shall Not Weep	1974		3005
-36638	Masterpiece Classic: Upstairs  Downstairs: Series 4: Tug of War	1974		2977
-36639	Masterpiece Classic: Upstairs  Downstairs: Series 4: The Hero's Farewell	1974		2998
-36640	Masterpiece Classic: Upstairs  Downstairs: Series 4: Missing Believed Killed	1974		3026
-36641	Masterpiece Classic: Upstairs  Downstairs: Series 4: The Glorious Dead	1974		3035
-36642	Masterpiece Classic: Upstairs  Downstairs: Series 4: Another Year	1974		3067
-36643	Masterpiece Classic: Upstairs  Downstairs: Series 2: An Object of Value	1972		3031
-36644	Masterpiece Classic: Upstairs  Downstairs: Series 2: Out of the Everywhere	1972		3000
-36645	Masterpiece Classic: Upstairs  Downstairs: Series 2: Your Obedient Servant	1972		3021
-36646	Masterpiece Classic: Upstairs  Downstairs: Series 2: The Property Lady	1972		3019
-36647	Masterpiece Classic: Upstairs  Downstairs: Series 2: A Family Gathering	1972		3024
-36648	Masterpiece Classic: Upstairs  Downstairs: Series 2: The Wages of Sin	1972		3078
-36649	Masterpiece Classic: Upstairs  Downstairs: Series 2: The Fruits of Love	1972		3071
-36650	Masterpiece Classic: Upstairs  Downstairs: Series 2: A Special Mischief	1972		3038
-36651	Masterpiece Classic: Upstairs  Downstairs: Series 3: A Family Secret	1973		3044
-36652	Masterpiece Classic: Upstairs  Downstairs: Series 3: A Change of Scene	1973		3061
-36653	Masterpiece Classic: Upstairs  Downstairs: Series 3: A House Divided	1973		3064
-36654	Masterpiece Classic: Upstairs  Downstairs: Series 3: Miss Forrest	1973		3031
-36655	Masterpiece Classic: Upstairs  Downstairs: Series 3: The Bolter	1973		3024
-36656	Masterpiece Classic: Upstairs  Downstairs: Series 3: Word of Honour	1973		3094
-36657	Masterpiece Classic: Upstairs  Downstairs: Series 3: Desirous of Change	1973		3062
-36658	Masterpiece Classic: Upstairs  Downstairs: Series 3: Rose's Pigeon	1973		3112
+36627	Mainpiece Classic: Upstairs  Downstairs: Series 3: A Perfect Stranger	1973		3104
+36628	Mainpiece Classic: Upstairs  Downstairs: Series 3: Distant Thunder	1973		3057
+36629	Mainpiece Classic: Upstairs  Downstairs: Series 3: Goodwill to All Men	1973		3058
+36630	Mainpiece Classic: Upstairs  Downstairs: Series 3: What the Footman Saw	1973		2984
+36631	Mainpiece Classic: Upstairs  Downstairs: Series 4: News from the Front	1974		3057
+36632	Mainpiece Classic: Upstairs  Downstairs: Series 4: The Beastly Hun	1974		3093
+36633	Mainpiece Classic: Upstairs  Downstairs: Series 3: The Sudden Storm	1973		3105
+36634	Mainpiece Classic: Upstairs  Downstairs: Series 4: A Patriotic Offering	1974		2980
+36635	Mainpiece Classic: Upstairs  Downstairs: Series 4: Home Fires	1974		3086
+36636	Mainpiece Classic: Upstairs  Downstairs: Series 4: If You Were the Only Girl in the World	1974		3047
+36637	Mainpiece Classic: Upstairs  Downstairs: Series 4: Women Shall Not Weep	1974		3005
+36638	Mainpiece Classic: Upstairs  Downstairs: Series 4: Tug of War	1974		2977
+36639	Mainpiece Classic: Upstairs  Downstairs: Series 4: The Hero's Farewell	1974		2998
+36640	Mainpiece Classic: Upstairs  Downstairs: Series 4: Missing Believed Killed	1974		3026
+36641	Mainpiece Classic: Upstairs  Downstairs: Series 4: The Glorious Dead	1974		3035
+36642	Mainpiece Classic: Upstairs  Downstairs: Series 4: Another Year	1974		3067
+36643	Mainpiece Classic: Upstairs  Downstairs: Series 2: An Object of Value	1972		3031
+36644	Mainpiece Classic: Upstairs  Downstairs: Series 2: Out of the Everywhere	1972		3000
+36645	Mainpiece Classic: Upstairs  Downstairs: Series 2: Your Obedient Servant	1972		3021
+36646	Mainpiece Classic: Upstairs  Downstairs: Series 2: The Property Lady	1972		3019
+36647	Mainpiece Classic: Upstairs  Downstairs: Series 2: A Family Gathering	1972		3024
+36648	Mainpiece Classic: Upstairs  Downstairs: Series 2: The Wages of Sin	1972		3078
+36649	Mainpiece Classic: Upstairs  Downstairs: Series 2: The Fruits of Love	1972		3071
+36650	Mainpiece Classic: Upstairs  Downstairs: Series 2: A Special Mischief	1972		3038
+36651	Mainpiece Classic: Upstairs  Downstairs: Series 3: A Family Secret	1973		3044
+36652	Mainpiece Classic: Upstairs  Downstairs: Series 3: A Change of Scene	1973		3061
+36653	Mainpiece Classic: Upstairs  Downstairs: Series 3: A House Divided	1973		3064
+36654	Mainpiece Classic: Upstairs  Downstairs: Series 3: Miss Forrest	1973		3031
+36655	Mainpiece Classic: Upstairs  Downstairs: Series 3: The Bolter	1973		3024
+36656	Mainpiece Classic: Upstairs  Downstairs: Series 3: Word of Honour	1973		3094
+36657	Mainpiece Classic: Upstairs  Downstairs: Series 3: Desirous of Change	1973		3062
+36658	Mainpiece Classic: Upstairs  Downstairs: Series 3: Rose's Pigeon	1973		3112
 36659	Ultimate Spider-Man: Season 1: Beetle Mania	2012		1329
 36660	Ultimate Spider-Man: Season 1: For Your Eye Only	2012		1329
 36661	Ultimate Spider-Man: Season 1: Out of Damage Control	2012		1329
@@ -36902,7 +36902,7 @@ for data in f:
 36898	The Glades: Season 2: Lost and Found	2011		2632
 36899	The Glades: Season 2: Old Ghosts	2011		2593
 36900	The Glades: Season 2: Family Matters	2011		2658
-36901	DreamWorks Kung Fu Panda Awesome Secrets: Secrets of the Masters	2008		1380
+36901	DreamWorks Kung Fu Panda Awesome Secrets: Secrets of the Mains	2008		1380
 36902	The Glades: Season 2: Addicted to Love	2011		2604
 36903	The Glades: Season 2: Gibtown	2011		2602
 36904	The Glades: Season 2: Dirty Little Secrets	2011		2632
@@ -36915,7 +36915,7 @@ for data in f:
 36911	Silenced	2011	4	7489
 36912	The Glades: Season 2: Breakout	2011		2549
 36913	The Glades: Season 2: Shine	2011		2603
-36914	Grandmaster	2012	3.4	8039
+36914	Grandmain	2012	3.4	8039
 36915	How the Toys Saved Christmas	1996	3.3	4680
 36916	The Animal Train	1998	3.3	1784
 36917	Full Tilt Boogie	1997	3.4	6033
@@ -36929,7 +36929,7 @@ for data in f:
 36925	Killing Season	2013	3.6	5443
 36926	One Hit From Home	2010	3.8	5902
 36927	Freaky Deaky	2012	3.1	5582
-36928	American Masters: Johnny Carson: King of Late Night	2012	4.3	6847
+36928	American Mains: Johnny Carson: King of Late Night	2012	4.3	6847
 36929	Future Weather	2012	3.2	5989
 36930	Louie: Season 2: Moving	2011		1278
 36931	Louie: Season 2: Joan	2011		1259
@@ -37320,7 +37320,7 @@ for data in f:
 37316	Power Rangers Super Samurai: A Sticky Situation	2012		1414
 37317	Power Rangers Super Samurai: Trust Me	2012		1414
 37318	The Carrie Diaries	2013	4.3	
-37319	Power Rangers Super Samurai: The Master Returns	2012		1414
+37319	Power Rangers Super Samurai: The Main Returns	2012		1414
 37320	The Carrie Diaries: Season 1	2013	4.3	
 37321	Power Rangers Super Samurai: The BullZord	2012		1416
 37322	Beauty &#38; the Beast: Season 1	2012	4	
@@ -37717,7 +37717,7 @@ for data in f:
 37713	A Thousand Cuts	2011	2.9	4669
 37714	Treasure Island	2012	3.7	
 37715	Just Around the Corner	2011	2.1	5839
-37716	Her Master's Voice	2012	3.6	3589
+37716	Her Main's Voice	2012	3.6	3589
 37717	[Rec] 3: Genesis	2012	3.3	4824
 37718	The ABCs of Death	2012	2.6	7764
 37719	Barrymore	2011	3	5030
@@ -37862,7 +37862,7 @@ for data in f:
 37858	Bro'	2012	3.5	5364
 37859	The Callers	2012	3.2	5359
 37860	Call the Midwife	2012	4.4	
-37861	Master Qi and the Monkey King	2010	2.5	4896
+37861	Main Qi and the Monkey King	2010	2.5	4896
 37862	Wilfred: Season 1: Conscience	2011		1277
 37863	Wilfred: Season 1: Respect	2011		1242
 37864	Wilfred: Season 1: Acceptance	2011		1269
@@ -38254,15 +38254,15 @@ for data in f:
 38250	The Walking Dead: Season 2: Nebraska	2011		2580
 38251	The Walking Dead: Season 2: Beside the Dying Fire	2011		2583
 38252	The Walking Dead: Season 2: Better Angels	2011		2594
-38253	LEGO Ninjago: Masters of Spinjitzu: Season 1: Rise of the Great Devourer	2012		1315
-38254	LEGO Ninjago: Masters of Spinjitzu: Season 1: All of Nothing	2012		1320
-38255	LEGO Ninjago: Masters of Spinjitzu: Season 1: The Green Ninjag	2012		1320
-38256	LEGO Ninjago: Masters of Spinjitzu: Season 1: The Royal Blacksmiths	2012		1320
+38253	LEGO Ninjago: Mains of Spinjitzu: Season 1: Rise of the Great Devourer	2012		1315
+38254	LEGO Ninjago: Mains of Spinjitzu: Season 1: All of Nothing	2012		1320
+38255	LEGO Ninjago: Mains of Spinjitzu: Season 1: The Green Ninjag	2012		1320
+38256	LEGO Ninjago: Mains of Spinjitzu: Season 1: The Royal Blacksmiths	2012		1320
 38257	All on the Line: Season 2	2011	3.5	
-38258	LEGO Ninjago: Masters of Spinjitzu: Season 1: Once Bitten  Twice Shy	2012		1320
+38258	LEGO Ninjago: Mains of Spinjitzu: Season 1: Once Bitten  Twice Shy	2012		1320
 38259	Battlestar Galactica: Season 4: Razor: Parts 1 &#38; 2	2008		5267
-38260	LEGO Ninjago: Masters of Spinjitzu: Season 1: Tick Tock	2012		1320
-38261	LEGO Ninjago: Masters of Spinjitzu: Season 1: The Snake King	2012		1320
+38260	LEGO Ninjago: Mains of Spinjitzu: Season 1: Tick Tock	2012		1320
+38261	LEGO Ninjago: Mains of Spinjitzu: Season 1: The Snake King	2012		1320
 38262	Aysha Saeed - Stop Being Controlling	2011		2704
 38263	Kathy and Eric Wilson - It's Like Interview With the Vampire	2011		2704
 38264	Qristyl Frazier - Plus-Sexy	2011		2703
@@ -38275,14 +38275,14 @@ for data in f:
 38271	Comic Book Men: Season 1: Ink	2012		2581
 38272	Comic Book Men: Season 1: Commercial	2012		2581
 38273	Comic Book Men: Season 1: Zombies	2012		2581
-38274	LEGO Ninjago: Masters of Spinjitzu: Season 1: Home	2012		1320
-38275	LEGO Ninjago: Masters of Spinjitzu: Season 1: Snakebit	2012		1320
-38276	LEGO Ninjago: Masters of Spinjitzu: Season 1: Never Trust a Snake	2012		1320
-38277	LEGO Ninjago: Masters of Spinjitzu: Season 1: Can of Worms	2012		1320
+38274	LEGO Ninjago: Mains of Spinjitzu: Season 1: Home	2012		1320
+38275	LEGO Ninjago: Mains of Spinjitzu: Season 1: Snakebit	2012		1320
+38276	LEGO Ninjago: Mains of Spinjitzu: Season 1: Never Trust a Snake	2012		1320
+38277	LEGO Ninjago: Mains of Spinjitzu: Season 1: Can of Worms	2012		1320
 38278	Neverland	2011	4	
-38279	LEGO Ninjago: Masters of Spinjitzu: Season 1	2012	4	
+38279	LEGO Ninjago: Mains of Spinjitzu: Season 1	2012	4	
 38280	The Apocalypse Watch	1997	2.8	
-38281	LEGO Ninjago: Masters of Spinjitzu: Season 1: Rise of the Snakes	2012		1320
+38281	LEGO Ninjago: Mains of Spinjitzu: Season 1: Rise of the Snakes	2012		1320
 38282	Sea Wolf	2009	3.7	
 38283	Ringer: Season 1: I'm the Good Twin	2011		2539
 38284	Ringer: Season 1: If You're Just an Evil Bitch  Then Get Over It	2011		2531
@@ -38383,7 +38383,7 @@ for data in f:
 38379	Fringe: Season 1: Inner Child	2008		2975
 38380	Fringe: Season 1: Midnight	2008		3000
 38381	Fringe: Season 1: Bad Dreams	2008		3016
-38382	Runaway Slave	2012	3.7	6713
+38382	Runaway Subordinate	2012	3.7	6713
 38383	Makkhi	2012	3.5	7176
 38384	Fringe: Season 1: The Transformation	2008		2997
 38385	Fringe: Season 1: Ability	2008		3000
@@ -38875,7 +38875,7 @@ for data in f:
 38871	My Fair Wedding: Season 4: Make-A-Wish Bride	2011		2643
 38872	Whisker Wars: Season 1: Don't Mess With Texas	2011		1359
 38873	Whisker Wars: Season 1: Reindeer Games	2011		1359
-38874	Whisker Wars: Season 1: The German Masters	2011		1359
+38874	Whisker Wars: Season 1: The German Mains	2011		1359
 38875	Whisker Wars: Season 1: It's Norway or the Highway	2011		1359
 38876	Whisker Wars: Season 1	2011	3.1	
 38877	Whisker Wars: Season 1: America's Beardsmen	2011		1368
@@ -39071,7 +39071,7 @@ for data in f:
 39067	Total Drama Action: Rock `n Rule	2009		1321
 39068	Total Drama Action: The Aftermath: For-Gwen and Forget?	2009		1321
 39069	Total Drama Action: Full Metal Drama	2009		1321
-39070	Total Drama Action: Masters of Disasters	2009		1321
+39070	Total Drama Action: Mains of Disasters	2009		1321
 39071	Total Drama Action: The Sand Witch Project	2009		1321
 39072	Total Drama Action: Dial M for Merger	2009		1321
 39073	Total Drama Action: Million Dollar Babies	2009		1321
@@ -39083,7 +39083,7 @@ for data in f:
 39079	Total Drama	2008	3.9	
 39080	Ek Tha Tiger	2012	3.6	7974
 39081	Nitro Circus: The Movie	2012	4	5508
-39082	LEGO Ninjago: Masters of Spinjitzu	2012	4	
+39082	LEGO Ninjago: Mains of Spinjitzu	2012	4	
 39083	Broken Roads	2012	3.5	9122
 39084	DreamWorks Spooky Stories: Volume 2	2011	3.7	
 39085	Dreamworks Spooky Stories: Volume 2: Monsters vs. Aliens: Night of the Living Carrots	2011		767
@@ -40774,7 +40774,7 @@ for data in f:
 40770	Samurai Jack: Season 1: The Beginning	2001		1438
 40771	Antardwand	2010	3.5	6252
 40772	Seal Team Six: The Raid on Osama Bin Laden	2012	3.9	5378
-40773	Kaijudo: Rise of the Duel Masters  Way of the Creature: Season 1	2012	4.1	
+40773	Kaijudo: Rise of the Duel Mains  Way of the Creature: Season 1	2012	4.1	
 40774	Chaplin &#38; Co.	2012	3.1	
 40775	The Little Prince	2010	3.5	
 40776	Extinction	2011	3.1	6894
@@ -40990,7 +40990,7 @@ for data in f:
 40986	A Christmas Puppy	2011	3.5	5302
 40987	Road Warriors: Baja 500	2011	3.6	3388
 40988	North Sea Texas	2011	3.5	5920
-40989	Garfield and Friends: Vol. 2: Slave to Passion    Snow Fun	1989		1424
+40989	Garfield and Friends: Vol. 2: Subordinate to Passion    Snow Fun	1989		1424
 40990	Garfield and Friends: Vol. 2: It Must Be True!    Swine Trek	1989		1430
 40991	Garfield and Friends: Vol. 2: Quicksand    Mud Sweet Mud	1989		1410
 40992	Garfield and Friends: Vol. 2: Basket Brawl    Change Your Life	1989		1395
@@ -41360,7 +41360,7 @@ for data in f:
 41356	Merlin: Season 4: Lancelot du Lac	2011		2669
 41357	Merlin: Season 4: Lamia	2011		2602
 41358	Merlin: Season 4: The Secret Sharer	2011		2599
-41359	Merlin: Season 4: A Servant of Two Masters	2011		2597
+41359	Merlin: Season 4: A Servant of Two Mains	2011		2597
 41360	Merlin: Season 4: His Father's Son	2011		2581
 41361	Merlin: Season 4: Aithusa	2011		2584
 41362	Merlin: Season 4: The Wicked Day	2011		2648
@@ -41544,7 +41544,7 @@ for data in f:
 41540	Mr. Young: Mr. Elderman	2011		1326
 41541	Mr. Young: Mr. Mummy	2011		1327
 41542	Mr. Young: Mr. Servant	2011		1382
-41543	Mr. Young: Mr. Masterpiece	2011		1364
+41543	Mr. Young: Mr. Mainpiece	2011		1364
 41544	Mr. Young: Mr. Brain	2011		1346
 41545	Mr. Young: Mr. Moth	2011		1327
 41546	Mr. Young: Mr. Space: Part 1	2011		1381
@@ -41913,7 +41913,7 @@ for data in f:
 41909	My Bride is a Mermaid: Season 1: The Island Closest to Heaven	2007		1429
 41910	My Bride is a Mermaid: Season 1: It's Tough Being a Man	2007		1429
 41911	My Bride is a Mermaid: Season 1: School in the Crosshairs	2007		1429
-41912	Moonphase: Season 1: Big Brother  They Say It's The End!  Will You Always Be My Slave?	2005		1467
+41912	Moonphase: Season 1: Big Brother  They Say It's The End!  Will You Always Be My Subordinate?	2005		1467
 41913	Moonphase: Season 1: Up and Down  In the Sun  Floating Away...What Is It?	2005		1437
 41914	My Bride Is a Mermaid: Season 1	2007	4.1	
 41915	My Bride is a Mermaid: Season 1: The Yakuza Wife	2007		1429
@@ -41988,7 +41988,7 @@ for data in f:
 41984	Moonphase: Season 1: Big Brother  I Feel Like Kissing	2004		1467
 41985	Moonphase: Season 1: Big Brother  Let's Live Together	2004		1467
 41986	Moonphase: Season 1: Call Me Mistress	2004		1467
-41987	Moonphase: Season 1: Big Brother  Be My Slave	2004		1467
+41987	Moonphase: Season 1: Big Brother  Be My Subordinate	2004		1467
 41988	Moonphase: Season 1: Well  I Wanted It...	2004		1467
 41989	Moonphase: Season 1: Mother Came to See Me! Happy!	2004		1467
 41990	Moonphase: Season 1: It's a Full  Full Moon	2004		1467
@@ -41996,7 +41996,7 @@ for data in f:
 41992	Moonphase: Season 1: Big Brother  Get Some Rest!	2004		1467
 41993	Moonphase: Season 1: I'll Never Forgive Him!	2004		1467
 41994	Moonphase: Season 1: Save Me From This Dream...	2004		1467
-41995	Moonphase: Season 1: You're My Slave and I Won't Forgive You	2004		1467
+41995	Moonphase: Season 1: You're My Subordinate and I Won't Forgive You	2004		1467
 41996	Moonphase: Season 1: It's More Than a Responsibility!	2005		1467
 41997	Moonphase: Season 1: I Have to Eat Cat-Ear Buns!	2005		1467
 41998	Moonphase: Season 1: Let's Defeat the Count	2004		1467
@@ -42022,7 +42022,7 @@ for data in f:
 42018	My Bride is a Mermaid: Season 1: Cops vs. Thugs	2007		1429
 42019	My Bride is a Mermaid: Season 1: Minority Report	2007		1429
 42020	My Bride is a Mermaid: Season 1: Love Story	2007		1429
-42021	My Bride is a Mermaid: Season 1: A Slave of Love	2007		1429
+42021	My Bride is a Mermaid: Season 1: A Subordinate of Love	2007		1429
 42022	Spice and Wolf: Season 2: Wolf and Endless Tears	2009		1448
 42023	Tenchi Muyo GXP: Season 1	2006	3.8	
 42024	Spice and Wolf: Season 2: Wolf and Lonely Smile	2009		1458
@@ -42182,9 +42182,9 @@ for data in f:
 42178	Stoked: Season 2: Safety Last	2010		1323
 42179	Stoked: Season 2: Grumpy Old Brahs	2010		1323
 42180	Stoked: Season 2: Hunka Hunka Burning Reef	2010		1323
-42181	He-Man and the Masters of the Universe: Season 1: The Beginning Part 1	2002		1385
-42182	He-Man and the Masters of the Universe: Season 1: The Beginning Part 2	2002		1384
-42183	He-Man and the Masters of the Universe: Season 1	2002	3.8	
+42181	He-Man and the Mains of the Universe: Season 1: The Beginning Part 1	2002		1385
+42182	He-Man and the Mains of the Universe: Season 1: The Beginning Part 2	2002		1384
+42183	He-Man and the Mains of the Universe: Season 1	2002	3.8	
 42184	The Rabbi's Cat	2011	3.4	5400
 42185	Edgemont: Season 4: Fool for Love	2003		1342
 42186	Edgemont: Season 4: Afterburn	2003		1342
@@ -42425,32 +42425,32 @@ for data in f:
 42421	Edgemont	2001	2.9	
 42422	Ugesh Sarcar's 3rd Degree: Episode 12	2007		1092
 42423	Ugesh Sarcar's 3rd Degree: Episode 5	2007		1181
-42424	He-Man and the Masters of the Universe: Season 1: The Beginning Part 3	2002		1384
-42425	He-Man and the Masters of the Universe: Season 1: The Courage of Adam	2002		1408
-42426	He-Man and the Masters of the Universe: Season 1: Turnabout	2002		1414
-42427	He-Man and the Masters of the Universe: Season 1: Mekaneck's Lament	2002		1404
-42428	He-Man and the Masters of the Universe: Season 1: The Ties That Bind	2002		1413
-42429	He-Man and the Masters of the Universe: Season 1: Dragon's Brood	2002		1414
-42430	He-Man and the Masters of the Universe: Season 1: Lessons	2002		1412
-42431	He-Man and the Masters of the Universe: Season 1: Siren's Song	2002		1406
-42432	He-Man and the Masters of the Universe: Season 1: Sky War	2002		1406
-42433	He-Man and the Masters of the Universe: Season 1: The Deep End	2002		1414
-42434	He-Man and the Masters of the Universe: Season 2: Orko's Garden	2002		1401
-42435	He-Man and the Masters of the Universe: Season 2: Trust	2002		1407
-42436	He-Man and the Masters of the Universe: Season 2: Roboto's Gambit	2002		1407
-42437	He-Man and the Masters of the Universe: Season 2: The Monster Within	2002		1417
-42438	He-Man and the Masters of the Universe: Season 2: The Mystery of Anwat Gar	2002		1403
-42439	He-Man and the Masters of the Universe: Season 2: Underworld	2002		1412
-42440	He-Man and the Masters of the Universe: Season 2	2002	3.8	
-42441	He-Man and the Masters of the Universe: Season 1: Night of the Shadowbeasts	2002		1412
-42442	He-Man and the Masters of the Universe: Season 3	2003	3.8	
-42443	He-Man and the Masters of the Universe: Season 2: The Council of Evil Part 2	2002		1383
-42444	He-Man and the Masters of the Universe: Season 2: The Council of Evil Part 1	2002		1382
-42445	He-Man and the Masters of the Universe: Season 2: Separation	2002		1405
-42446	He-Man and the Masters of the Universe: Season 2: The Sweet Smell of Victory	2002		1410
-42447	He-Man and the Masters of the Universe: Season 2: The Island	2002		1411
-42448	He-Man and the Masters of the Universe: Season 2: Snake Pit	2002		1402
-42449	He-Man and the Masters of the Universe: Season 2: Buzz-Off's Pride	2002		1402
+42424	He-Man and the Mains of the Universe: Season 1: The Beginning Part 3	2002		1384
+42425	He-Man and the Mains of the Universe: Season 1: The Courage of Adam	2002		1408
+42426	He-Man and the Mains of the Universe: Season 1: Turnabout	2002		1414
+42427	He-Man and the Mains of the Universe: Season 1: Mekaneck's Lament	2002		1404
+42428	He-Man and the Mains of the Universe: Season 1: The Ties That Bind	2002		1413
+42429	He-Man and the Mains of the Universe: Season 1: Dragon's Brood	2002		1414
+42430	He-Man and the Mains of the Universe: Season 1: Lessons	2002		1412
+42431	He-Man and the Mains of the Universe: Season 1: Siren's Song	2002		1406
+42432	He-Man and the Mains of the Universe: Season 1: Sky War	2002		1406
+42433	He-Man and the Mains of the Universe: Season 1: The Deep End	2002		1414
+42434	He-Man and the Mains of the Universe: Season 2: Orko's Garden	2002		1401
+42435	He-Man and the Mains of the Universe: Season 2: Trust	2002		1407
+42436	He-Man and the Mains of the Universe: Season 2: Roboto's Gambit	2002		1407
+42437	He-Man and the Mains of the Universe: Season 2: The Monster Within	2002		1417
+42438	He-Man and the Mains of the Universe: Season 2: The Mystery of Anwat Gar	2002		1403
+42439	He-Man and the Mains of the Universe: Season 2: Underworld	2002		1412
+42440	He-Man and the Mains of the Universe: Season 2	2002	3.8	
+42441	He-Man and the Mains of the Universe: Season 1: Night of the Shadowbeasts	2002		1412
+42442	He-Man and the Mains of the Universe: Season 3	2003	3.8	
+42443	He-Man and the Mains of the Universe: Season 2: The Council of Evil Part 2	2002		1383
+42444	He-Man and the Mains of the Universe: Season 2: The Council of Evil Part 1	2002		1382
+42445	He-Man and the Mains of the Universe: Season 2: Separation	2002		1405
+42446	He-Man and the Mains of the Universe: Season 2: The Sweet Smell of Victory	2002		1410
+42447	He-Man and the Mains of the Universe: Season 2: The Island	2002		1411
+42448	He-Man and the Mains of the Universe: Season 2: Snake Pit	2002		1402
+42449	He-Man and the Mains of the Universe: Season 2: Buzz-Off's Pride	2002		1402
 42450	TEDTalks: The Power of Crowds: Peter Norvig: The 100 000-student Classroom	2012		367
 42451	TEDTalks: The Power of Crowds: Beth Noveck: Demand a More Open-Source Government	2012		1038
 42452	TEDTalks: The Power of Crowds: Paul Conneally: Digital Humanitarianism	2012		652
@@ -42501,19 +42501,19 @@ for data in f:
 42497	Fun with Claude: Season 1: Ribbit   Colours	2008		1214
 42498	Fun with Claude: Season 1	2008	3.1	
 42499	Secret of the Wings	2012	4.1	4503
-42500	He-Man and the Masters of the Universe: Season 3: Awaken the Serpent	2003		1400
-42501	He-Man and the Masters of the Universe: Season 3: History	2003		1399
-42502	He-Man and the Masters of the Universe: Season 3: Rattle of the Snake	2003		1393
-42503	He-Man and the Masters of the Universe: Season 3: Web of Evil	2003		1400
-42504	He-Man and the Masters of the Universe: Season 3: The Power of Grayskull	2003		1387
-42505	He-Man and the Masters of the Universe: Season 3: Second Skin	2003		1412
-42506	He-Man and the Masters of the Universe: Season 3: Of Machines and Men	2003		1409
-42507	He-Man and the Masters of the Universe: Season 3: The Price of Deceit	2003		1393
-42508	He-Man and the Masters of the Universe: Season 3: Rise of the Snake Men Part 2	2003		1396
-42509	He-Man and the Masters of the Universe: Season 3: Rise of the Snake Men Part 1	2003		1371
-42510	He-Man and the Masters of the Universe: Season 3: Out of the Past	2003		1419
-42511	He-Man and the Masters of the Universe: Season 3: To Walk with Dragons	2003		1406
-42512	He-Man and the Masters of the Universe: Season 3: The Last Stand	2003		1427
+42500	He-Man and the Mains of the Universe: Season 3: Awaken the Serpent	2003		1400
+42501	He-Man and the Mains of the Universe: Season 3: History	2003		1399
+42502	He-Man and the Mains of the Universe: Season 3: Rattle of the Snake	2003		1393
+42503	He-Man and the Mains of the Universe: Season 3: Web of Evil	2003		1400
+42504	He-Man and the Mains of the Universe: Season 3: The Power of Grayskull	2003		1387
+42505	He-Man and the Mains of the Universe: Season 3: Second Skin	2003		1412
+42506	He-Man and the Mains of the Universe: Season 3: Of Machines and Men	2003		1409
+42507	He-Man and the Mains of the Universe: Season 3: The Price of Deceit	2003		1393
+42508	He-Man and the Mains of the Universe: Season 3: Rise of the Snake Men Part 2	2003		1396
+42509	He-Man and the Mains of the Universe: Season 3: Rise of the Snake Men Part 1	2003		1371
+42510	He-Man and the Mains of the Universe: Season 3: Out of the Past	2003		1419
+42511	He-Man and the Mains of the Universe: Season 3: To Walk with Dragons	2003		1406
+42512	He-Man and the Mains of the Universe: Season 3: The Last Stand	2003		1427
 42513	Total Retribution	2011	2.3	5115
 42514	Fun with Claude: Season 1: Bathtime   Pirates	2008		1214
 42515	Fun with Claude: Season 1: Catching   Visitors	2008		1214
@@ -42875,7 +42875,7 @@ for data in f:
 42871	Voltron: Lion Force: One Princess to Another	1984		1398
 42872	Voltron: Lion Force: Voltron vs. Voltron	1984		1396
 42873	XIII: The Series	2011	3.7	
-42874	Voltron: Lion Force: Voltron Frees the Slaves	1984		1396
+42874	Voltron: Lion Force: Voltron Frees the Subordinates	1984		1396
 42875	Voltron: Lion Force: The Sand People	1984		1397
 42876	Louis C.K.: Live at the Beacon Theater	2011	4.2	3757
 42877	The Tower	2012	3.6	7302
@@ -43793,7 +43793,7 @@ for data in f:
 43789	Powerpuff Girls: Season 2: Imaginary Fiend   Cootie Gras	1999		1343
 43790	Powerpuff Girls: Season 2: Mo Job   Pet Feud	1999		1338
 43791	Powerpuff Girls: Season 2: A Very Special Blossom   Daylight Savings	1999		1413
-43792	Powerpuff Girls: Season 2: Slave the Day   Los Dos Mojos	1999		1445
+43792	Powerpuff Girls: Season 2: Subordinate the Day   Los Dos Mojos	1999		1445
 43793	Powerpuff Girls: Season 2: Beat Your Greens   Down 'n' Dirty	1999		1375
 43794	Powerpuff Girls: Season 2: Dream Scheme   You Snooze  You Lose	1999		1348
 43795	Powerpuff Girls: Season 2: Birthday Bash   Too Pooped to Puff	1999		1387
@@ -44624,7 +44624,7 @@ for data in f:
 44620	WWE: The Best of Raw &#38; SmackDown 2012	2012	3.9	
 44621	Mutant Species	1995	2.8	6004
 44622	Haute Cuisine	2013	4	5400
-44623	Slaves	1969	3.4	6337
+44623	Subordinates	1969	3.4	6337
 44624	Donovan's Echo	2012	3.7	5465
 44625	Moonbase	1997	2.6	5320
 44626	Guess with Jess	2009	3.4	
@@ -44688,7 +44688,7 @@ for data in f:
 44684	Buffalo Soldiers	1970	3	4596
 44685	Brotherhood of Death	1976	3.3	4647
 44686	Littlest Pet Shop	2012	3.6	
-44687	Kaijudo: Rise of the Duel Masters  Way of the Creature	2012	4.1	
+44687	Kaijudo: Rise of the Duel Mains  Way of the Creature	2012	4.1	
 44688	My Amityville Horror	2012	3.1	5329
 44689	Generation Um...	2012	2.3	5829
 44690	The Pitch: Season 1: Autograph Collection  Marriott International: Jones Advertising &#38; Bandujo	2012		2584
@@ -45040,7 +45040,7 @@ for data in f:
 45036	The Glades: Season 3: Food Fight	2012		2591
 45037	The Glades: Season 3: Fountain of Youth	2012		2591
 45038	The Glades: Season 3: Public Enemy	2012		2570
-45039	Masterpiece Classic: Great Expectations: Episode 1	2011		3532
+45039	Mainpiece Classic: Great Expectations: Episode 1	2011		3532
 45040	Somm	2012	4	5626
 45041	The Glades: Season 3	2012	4	
 45042	The Secret Life of the American Teenager: Season 5: It's a Miracle	2013		2546
@@ -45071,8 +45071,8 @@ for data in f:
 45067	Our Nixon	2013	3.1	5091
 45068	Lunarcy!	2012	3.1	4757
 45069	Ring of Fire	2012	3.5	
-45070	Masterpiece Classic: Great Expectations: Episode 3	2011		3538
-45071	Masterpiece Classic: Great Expectations: Episode 2	2011		3544
+45070	Mainpiece Classic: Great Expectations: Episode 3	2011		3538
+45071	Mainpiece Classic: Great Expectations: Episode 2	2011		3544
 45072	The Captains Close-Up: Avery Brooks	2013		1757
 45073	The Dragon Pearl	2011	3.8	5680
 45074	The Killing: Season 3	2013	4.2	
@@ -45193,7 +45193,7 @@ for data in f:
 45189	CSI: NY: Season 1: Rain	2004		2519
 45190	CSI: NY: Season 1: Creatures Of The Night	2004		2490
 45191	CSI: NY: Season 1: Blink	2004		2502
-45192	CSI: NY: Season 1: Grand Master	2004		2478
+45192	CSI: NY: Season 1: Grand Main	2004		2478
 45193	CSI: NY: Season 1: American Dreamers	2004		2550
 45194	Haven: Season 1: Consumed	2010		2538
 45195	Haven: Season 1: Welcome to Haven	2010		2617
@@ -45435,33 +45435,33 @@ for data in f:
 45431	JoJo's Circus: Season 1: Hide and Go Dinky   Fire Chief Says	2003		1451
 45432	JoJo's Circus: Season 1: Uncle Flippy's Funny Farm   Up  Up and Away	2003		1451
 45433	JoJo's Circus: Season 1: Try These on for Boing!   Happy Birthday Tater!	2003		1452
-45434	LEGO Ninjago: Masters of Spinjitzu: Season 2: The Last Hope	2012		1315
+45434	LEGO Ninjago: Mains of Spinjitzu: Season 2: The Last Hope	2012		1315
 45435	JoJo's Circus: Season 1: Confetti Caper   JoJo on the Tightrope	2003		1451
-45436	LEGO Ninjago: Masters of Spinjitzu: Season 2: Return of the Overlord	2012		1315
+45436	LEGO Ninjago: Mains of Spinjitzu: Season 2: Return of the Overlord	2012		1315
 45437	JoJo's Circus: Season 1: The Circus Shh Shh   The Little Big Top Boogie Band	2003		1451
-45438	LEGO Ninjago: Masters of Spinjitzu: Season 2: Rise of the Spinjitzu Master	2012		1315
+45438	LEGO Ninjago: Mains of Spinjitzu: Season 2: Rise of the Spinjitzu Main	2012		1315
 45439	JoJo's Circus: Season 1: Cotton Andy   Nighty Night	2003		1451
 45440	JoJo's Circus: Season 1: Drum Roll Please   Cannonball JoJo	2003		1451
 45441	JoJo's Circus: Season 1: Skeebo's Missing Hat Trick   Seal Fright	2003		1452
 45442	JoJo's Circus: Season 1: Flower Shower   The Itch-Oochy Scratch Patch	2003		1452
 45443	JoJo's Circus: Season 1: JoJo Signs Up   The Un-Average Day	2003		1451
-45444	LEGO Ninjago: Masters of Spinjitzu: Season 2: Ninjaball Run	2012		1315
-45445	LEGO Ninjago: Masters of Spinjitzu: Season 2: Double Trouble	2012		1315
-45446	LEGO Ninjago: Masters of Spinjitzu: Season 2: Wrong Place  Wrong Time	2012		1315
-45447	LEGO Ninjago: Masters of Spinjitzu: Season 2: Child's Play	2012		1315
-45448	LEGO Ninjago: Masters of Spinjitzu: Season 2: The Day Ninjago Stood Still	2012		1315
-45449	LEGO Ninjago: Masters of Spinjitzu: Season 2: The Stone Army	2012		1315
-45450	LEGO Ninjago: Masters of Spinjitzu: Season 2: Island of Darkness	2012		1315
-45451	LEGO Ninjago: Masters of Spinjitzu: Season 2: The Last Voyage	2012		1315
-45452	Masterpiece Classic: Great Expectations	2011	4.1	
+45444	LEGO Ninjago: Mains of Spinjitzu: Season 2: Ninjaball Run	2012		1315
+45445	LEGO Ninjago: Mains of Spinjitzu: Season 2: Double Trouble	2012		1315
+45446	LEGO Ninjago: Mains of Spinjitzu: Season 2: Wrong Place  Wrong Time	2012		1315
+45447	LEGO Ninjago: Mains of Spinjitzu: Season 2: Child's Play	2012		1315
+45448	LEGO Ninjago: Mains of Spinjitzu: Season 2: The Day Ninjago Stood Still	2012		1315
+45449	LEGO Ninjago: Mains of Spinjitzu: Season 2: The Stone Army	2012		1315
+45450	LEGO Ninjago: Mains of Spinjitzu: Season 2: Island of Darkness	2012		1315
+45451	LEGO Ninjago: Mains of Spinjitzu: Season 2: The Last Voyage	2012		1315
+45452	Mainpiece Classic: Great Expectations	2011	4.1	
 45453	LEGO Atlantis	2010	3.8	1345
-45454	LEGO Ninjago: Masters of Spinjitzu: Season 1: Day of the Great Devourer	2012		1315
-45455	LEGO Ninjago: Masters of Spinjitzu: King of Shadows	2011	3.8	1320
+45454	LEGO Ninjago: Mains of Spinjitzu: Season 1: Day of the Great Devourer	2012		1315
+45455	LEGO Ninjago: Mains of Spinjitzu: King of Shadows	2011	3.8	1320
 45456	LEGO Friends: New Girl in Town	2012	3.7	1320
-45457	LEGO Ninjago: Masters of Spinjitzu: Season 2	2012	4	
-45458	LEGO Ninjago: Masters of Spinjitzu: Way of the Ninja	2011	3.9	1320
-45459	LEGO Ninjago: Masters of Spinjitzu: Season 2: Pirates vs. Ninja	2012		1315
-45460	LEGO Ninjago: Masters of Spinjitzu: Season 2: Darkness Shall Rise	2012		1315
+45457	LEGO Ninjago: Mains of Spinjitzu: Season 2	2012	4	
+45458	LEGO Ninjago: Mains of Spinjitzu: Way of the Ninja	2011	3.9	1320
+45459	LEGO Ninjago: Mains of Spinjitzu: Season 2: Pirates vs. Ninja	2012		1315
+45460	LEGO Ninjago: Mains of Spinjitzu: Season 2: Darkness Shall Rise	2012		1315
 45461	LEGO: Hero Factory: Breakout	2012	3.9	2672
 45462	Example Short 23.976 III	2010	3.1	670
 45463	About Sunny	2013	3.3	6229
@@ -46108,19 +46108,19 @@ for data in f:
 46104	American Horror Story: Season 2: Welcome to Briarcliff	2012		2760
 46105	12 Signs of Love	2012	3.5	
 46106	Bob Saget: That's What I'm Talkin' About	2013	2.9	3316
-46107	Masterpiece Classic: The Mystery of Edwin Drood: Part 2	2012		3604
-46108	Masterpiece Classic: The Mystery of Edwin Drood: Part 1	2012		3599
-46109	Masterpiece Mystery: Inspector Lewis 5: Fearful Symmetry	2012		5370
-46110	Masterpiece Mystery: Inspector Lewis 5: Generation of Vipers	2012		5281
-46111	Masterpiece Mystery: Inspector Lewis 5: The Indelible Stain	2012		5321
+46107	Mainpiece Classic: The Mystery of Edwin Drood: Part 2	2012		3604
+46108	Mainpiece Classic: The Mystery of Edwin Drood: Part 1	2012		3599
+46109	Mainpiece Mystery: Inspector Lewis 5: Fearful Symmetry	2012		5370
+46110	Mainpiece Mystery: Inspector Lewis 5: Generation of Vipers	2012		5281
+46111	Mainpiece Mystery: Inspector Lewis 5: The Indelible Stain	2012		5321
 46112	Haven: Season 2: A Tale of Two Audreys	2011		2537
-46113	Masterpiece Mystery!: Inspector Lewis: Series 4	2011	4.1	
-46114	Masterpiece Mystery!: Inspector Lewis: Series 4: Old  Unhappy  Far Off Things	2011		5592
-46115	Masterpiece Mystery!: Inspector Lewis: Series 4: Wild Justice	2011		5591
-46116	Masterpiece Mystery!: Inspector Lewis: Series 5	2012	4.1	
-46117	Masterpiece Mystery: Inspector Lewis 5: The Soul of Genius	2012		5370
-46118	Masterpiece Mystery!: Inspector Lewis: Series 4: The Mind Has Mountains	2011		5578
-46119	Masterpiece Mystery!: Inspector Lewis: Series 4: The Gift of Promise	2011		5582
+46113	Mainpiece Mystery!: Inspector Lewis: Series 4	2011	4.1	
+46114	Mainpiece Mystery!: Inspector Lewis: Series 4: Old  Unhappy  Far Off Things	2011		5592
+46115	Mainpiece Mystery!: Inspector Lewis: Series 4: Wild Justice	2011		5591
+46116	Mainpiece Mystery!: Inspector Lewis: Series 5	2012	4.1	
+46117	Mainpiece Mystery: Inspector Lewis 5: The Soul of Genius	2012		5370
+46118	Mainpiece Mystery!: Inspector Lewis: Series 4: The Mind Has Mountains	2011		5578
+46119	Mainpiece Mystery!: Inspector Lewis: Series 4: The Gift of Promise	2011		5582
 46120	Poster Girl	2010	3.4	2273
 46121	Sex.Violence.FamilyValues.	2013	2.4	2810
 46122	Liars All	2013	2.8	5504
@@ -46222,7 +46222,7 @@ for data in f:
 46218	NATURE: Siberian Tiger Quest	2012	3.9	3177
 46219	Nova: Cracking Your Genetic Code	2012	4	3212
 46220	Nova: Hunting the Elements	2012	4.1	6792
-46221	Nova: Mystery of a Masterpiece	2012	4.1	3192
+46221	Nova: Mystery of a Mainpiece	2012	4.1	3192
 46222	NATURE: Ducks: An Original DUCKumentary	2012	4	3184
 46223	Nature: Animal Odd Couples	2012	4.1	3183
 46224	NATURE: Magic of the Snowy Owl	2012	4	3185
@@ -46370,7 +46370,7 @@ for data in f:
 46366	Russell Peters: Notorious	2013	3.9	4291
 46367	Russell Peters Vs. the World: Season 1: NYC	2013		1672
 46368	Russell Peters Vs. the World: Season 1: On Tour	2013		1639
-46369	Masterpiece Classic: The Mystery of Edwin Drood	2012	3.6	
+46369	Mainpiece Classic: The Mystery of Edwin Drood	2012	3.6	
 46370	The Mind of a Chef	2012	4.3	
 46371	Antiques Roadshow	1997	4.1	
 46372	Drug War	2012	3.3	6396
@@ -46529,7 +46529,7 @@ for data in f:
 46525	Digimon: Digital Monsters: Season 2: Spirit Needle	2000		1167
 46526	Digimon: Digital Monsters: Season 2: United We Stand	2000		1270
 46527	Digimon: Digital Monsters: Season 2: Fusion Confusion	2000		1264
-46528	Digimon: Digital Monsters: Season 2: The Insect Master's Trap	2000		1250
+46528	Digimon: Digital Monsters: Season 2: The Insect Main's Trap	2000		1250
 46529	Digimon: Digital Monsters: Season 2: Arukenimon's Tangled Web	2000		1268
 46530	Digimon: Digital Monsters: Season 2: Ultimate Anti-Hero	2000		1251
 46531	Digimon: Digital Monsters: Season 2: Opposites Attract	2000		1261
@@ -46539,7 +46539,7 @@ for data in f:
 46535	Digimon: Digital Monsters: Season 2: Cody Takes a Stand	2000		1254
 46536	Digimon: Digital Monsters: Season 2: Big Trouble in Little Edo	2000		1239
 46537	Digimon: Digital Monsters: Season 2: The Samurai of Sincerity	2000		1225
-46538	Digimon: Digital Monsters: Season 2: His Master's Voice	2000		1256
+46538	Digimon: Digital Monsters: Season 2: His Main's Voice	2000		1256
 46539	Digimon: Digital Monsters: Season 2: The Good  the Bad  and the Digi	2000		1250
 46540	Digimon: Digital Monsters: Season 2: Storm of Friendship	2000		1262
 46541	Digimon: Digital Monsters: Season 2: The Captive Digimon	2000		1167
@@ -46581,7 +46581,7 @@ for data in f:
 46577	Digimon: Digital Monsters: Season 1: Pinocchimon's Deadly Game	1999		1307
 46578	Digimon: Digital Monsters: Season 1: Etemon's Come Back Tour	1999		1253
 46579	Digimon: Digital Monsters: Season 1: The Ultimate Clash	1999		1195
-46580	Digimon: Digital Monsters: Season 1: Enter the Dark Masters	1999		1235
+46580	Digimon: Digital Monsters: Season 1: Enter the Dark Mains	1999		1235
 46581	Digimon: Digital Monsters: Season 1: The Battle for Earth	1999		1153
 46582	Digimon: Digital Monsters: Season 1: Under Pressure	1999		1197
 46583	Digimon: Digital Monsters: Season 1: Seasick and Tired	1999		1225
@@ -46658,7 +46658,7 @@ for data in f:
 46654	Digimon Adventure: Season 2: Knight of the Skies Â Aquilamon	2000		1386
 46655	Digimon Adventure: Season 2: Jogress EvolutionÂ Now  Two Hearts Become One	2000		1386
 46656	Digimon Adventure: Season 2: Invincible Union! Paildramon	2000		1386
-46657	Digimon Adventure: Season 2: The Insect Master's Trap!!	2000		1386
+46657	Digimon Adventure: Season 2: The Insect Main's Trap!!	2000		1386
 46658	Digimon Adventure: Season 2: Goodbye  Ken...	2000		1385
 46659	Digimon Adventure: Season 2: Brave Evolution!Â XV-mon	2000		1382
 46660	Digimon Adventure: Season 2: When a Digivice Is Painted by Darkness	2000		1386
@@ -46717,7 +46717,7 @@ for data in f:
 46713	Digimon Adventure: Season 1: The Final Dark Digimon	1999		1386
 46714	Digimon Adventure: Season 1: Silent Whamon on the Bottom of the Sea	1999		1385
 46715	Digimon Adventure: Season 1: The Dangerous Game! Pinocchimon	1999		1385
-46716	Digimon Adventure: Season 1: The Four Kings of the Mountain of the Devil! The Dark Masters!	1999		1386
+46716	Digimon Adventure: Season 1: The Four Kings of the Mountain of the Devil! The Dark Mains!	1999		1386
 46717	Digimon Adventure: Season 1: The Hardened King of the Seas! MetalSeadramon	1999		1386
 46718	Digimon Adventure: Season 1: The Counterattack of MetalEtemon	1999		1386
 46719	Digimon Adventure: Season 1: Oh Wind! Oh Light! SaberLeomon	1999		1386
@@ -47085,7 +47085,7 @@ for data in f:
 47081	Rastamouse: Season 1: Da Crucial Plan	2011		678
 47082	Rastamouse: Season 1: Double Crossin' Diva	2011		678
 47083	Rastamouse: Season 1: Bakin' and Breakin'	2011		678
-47084	Rastamouse: Season 1: Da Missin' Masterpiece	2011		678
+47084	Rastamouse: Season 1: Da Missin' Mainpiece	2011		678
 47085	Monster Math Squad: Season 2: Monster Treat Trouble	2012		727
 47086	Monster Math Squad: Season 2: Number Line Monster's New Game	2012		727
 47087	Monster Math Squad: Season 2: Monster Factory Fiasco	2012		727
@@ -47102,7 +47102,7 @@ for data in f:
 47098	Rastamouse: Season 1: Da Cool Cruiser	2011		678
 47099	Rastamouse: Season 1: Marathon Mystery	2011		678
 47100	Rastamouse: Season 1: Wicked Threads	2011		681
-47101	Rastamouse: Season 1: Master of Disguise	2011		678
+47101	Rastamouse: Season 1: Main of Disguise	2011		678
 47102	Rastamouse: Season 1: Rollin' Ragga Twins	2011		678
 47103	Rastamouse: Season 1: Pie Without Cheese?	2011		678
 47104	Rastamouse: Season 1: Cheesy Rumbles	2011		678
@@ -47667,7 +47667,7 @@ for data in f:
 47663	Monsters Inside Me: Season 2: Feeding Frenzy	2010		2607
 47664	Monsters Inside Me: Season 2: Cold Blooded Killers	2010		2607
 47665	Monsters Inside Me: Season 1: Sex Maniacs	2009		2607
-47666	Monsters Inside Me: Season 1: Masters of Disguise	2009		2607
+47666	Monsters Inside Me: Season 1: Mains of Disguise	2009		2607
 47667	Monsters Inside Me: Season 1: Hijackers	2009		2607
 47668	Monsters Inside Me: Season 1: Living with the Enemy	2009		2607
 47669	Gator Boys: Season 1: Horse Devouring Gator	2011		2536
@@ -47767,12 +47767,12 @@ for data in f:
 47763	Behind Bars: Season 1: Kansas	2010		2563
 47764	Bering Sea Gold: Season 1: After the Dredge: Risks and Relations	2012		2620
 47765	Bering Sea Gold: Season 1: After the Dredge: Gains and Losses	2012		2619
-47766	Brew Masters: Season 1	2010	4.1	
-47767	Brew Masters: Season 1: Bitches Brew	2010		2494
-47768	Brew Masters: Season 1: Chicha	2010		2622
-47769	Brew Masters: Season 1: Punkin &#38; Portamarillo	2010		2622
-47770	Brew Masters: Season 1: Grain to Glass	2010		2622
-47771	Brew Masters: Season 1: Ancient Ale	2010		2622
+47766	Brew Mains: Season 1	2010	4.1	
+47767	Brew Mains: Season 1: Bitches Brew	2010		2494
+47768	Brew Mains: Season 1: Chicha	2010		2622
+47769	Brew Mains: Season 1: Punkin &#38; Portamarillo	2010		2622
+47770	Brew Mains: Season 1: Grain to Glass	2010		2622
+47771	Brew Mains: Season 1: Ancient Ale	2010		2622
 47772	Carfellas: Season 1	2011	3.4	
 47773	Carfellas: Season 1: Paddy Wagon	2011		1287
 47774	Carfellas: Season 1: Bocce Baller	2011		1284
@@ -47840,37 +47840,37 @@ for data in f:
 47836	Dinosaur Revolution: Season 1: Evolution's Winners	2011		2619
 47837	Desert Car Kings: Season 1: Pontiac GTO	2011		2560
 47838	Desert Car Kings: Season 1: Charger Showdown	2011		2622
-47839	Beyblade: Metal Masters: The Dragon Emperor Returns	2011		1345
-47840	Beyblade: Metal Masters: Exceed the Limit!	2011		1345
-47841	Beyblade: Metal Masters: Dark Eagle	2011		1345
-47842	Beyblade: Metal Masters: Gravity Destroyer	2011		1345
-47843	Beyblade: Metal Masters: The Third Match  on the Edge	2011		1345
-47844	Beyblade: Metal Masters: The End of a Fierce Struggle!	2011		1345
-47845	Beyblade: Metal Masters: The Creeping Darkness	2011		1345
-47846	Beyblade: Metal Masters: The Axe of Destruction	2011		1345
-47847	Beyblade: Metal Masters: The Midday Street Battle	2011		1345
-47848	Beyblade: Metal Masters: The Brazilian Trap	2011		1345
-47849	Beyblade: Metal Masters: The 4 000 Year Old Secret	2011		1345
-47850	Beyblade: Metal Masters: Lacerta's Will	2011		1345
+47839	Beyblade: Metal Mains: The Dragon Emperor Returns	2011		1345
+47840	Beyblade: Metal Mains: Exceed the Limit!	2011		1345
+47841	Beyblade: Metal Mains: Dark Eagle	2011		1345
+47842	Beyblade: Metal Mains: Gravity Destroyer	2011		1345
+47843	Beyblade: Metal Mains: The Third Match  on the Edge	2011		1345
+47844	Beyblade: Metal Mains: The End of a Fierce Struggle!	2011		1345
+47845	Beyblade: Metal Mains: The Creeping Darkness	2011		1345
+47846	Beyblade: Metal Mains: The Axe of Destruction	2011		1345
+47847	Beyblade: Metal Mains: The Midday Street Battle	2011		1345
+47848	Beyblade: Metal Mains: The Brazilian Trap	2011		1345
+47849	Beyblade: Metal Mains: The 4 000 Year Old Secret	2011		1345
+47850	Beyblade: Metal Mains: Lacerta's Will	2011		1345
 47851	Scholastic: Tall Tales: Trashy Town	2001		431
-47852	Beyblade: Metal Masters: The Wintry Land of Russia	2011		1345
-47853	Beyblade: Metal Masters: The Bey with a Hero's Name	2011		1345
+47852	Beyblade: Metal Mains: The Wintry Land of Russia	2011		1345
+47853	Beyblade: Metal Mains: The Bey with a Hero's Name	2011		1345
 47854	Twisted: Season 1: Pilot	2013		2632
-47855	Beyblade: Metal Masters: The Beylin Temple in the Sky	2011		1345
+47855	Beyblade: Metal Mains: The Beylin Temple in the Sky	2011		1345
 47856	Scholastic: Tall Tales	2005	3.2	
-47857	Beyblade: Metal Masters: Soar into the World!	2011		1345
+47857	Beyblade: Metal Mains: Soar into the World!	2011		1345
 47858	Twisted: Season 1: PSA De Resistance	2013		2621
-47859	Beyblade: Metal Masters: The World Championships Begin!	2011		1345
+47859	Beyblade: Metal Mains: The World Championships Begin!	2011		1345
 47860	Twisted: Season 1: Grief Is a Five-Letter Word	2013		2601
-47861	Beyblade: Metal Masters: The Third Man	2011		1345
-47862	Beyblade: Metal Masters: The Shocking Wild Fang	2011		1345
-47863	Beyblade: Metal Masters: The Scorching Hot Lion	2011		1345
-47864	Beyblade: Metal Masters: Eternal Rivals	2011		1345
-47865	Beyblade: Metal Masters: Horuseus vs. Striker	2011		1345
-47866	Beyblade: Metal Masters: Libra Departs for the Front!	2011		1345
-47867	Beyblade: Metal Masters: How Grand! The Cage Match!	2011		1345
-47868	Beyblade: Metal Masters: We Meet Again! Wang Hu Zhong	2011		1345
-47869	Beyblade: Metal Masters: The Festival of Warriors	2011		1345
+47861	Beyblade: Metal Mains: The Third Man	2011		1345
+47862	Beyblade: Metal Mains: The Shocking Wild Fang	2011		1345
+47863	Beyblade: Metal Mains: The Scorching Hot Lion	2011		1345
+47864	Beyblade: Metal Mains: Eternal Rivals	2011		1345
+47865	Beyblade: Metal Mains: Horuseus vs. Striker	2011		1345
+47866	Beyblade: Metal Mains: Libra Departs for the Front!	2011		1345
+47867	Beyblade: Metal Mains: How Grand! The Cage Match!	2011		1345
+47868	Beyblade: Metal Mains: We Meet Again! Wang Hu Zhong	2011		1345
+47869	Beyblade: Metal Mains: The Festival of Warriors	2011		1345
 47870	How I Met Your Mother: Season 8: Band or DJ?	2012		1224
 47871	How I Met Your Mother: Season 8: Ring Up!	2012		1299
 47872	How I Met Your Mother: Season 8: P.S. I Love You	2012		1298
@@ -47887,13 +47887,13 @@ for data in f:
 47883	How I Met Your Mother: Season 8: The Pre-Nup	2012		1299
 47884	How I Met Your Mother: Season 8: Nannies	2012		1299
 47885	How I Met Your Mother: Season 8: Who Wants to Be a Godparent?	2012		1295
-47886	Beyblade: Metal Masters: A New Challenge	2011		1345
-47887	Beyblade: Metal Masters: The Persistent Challenger	2011		1345
-47888	Beyblade: Metal Masters: Final Battle! Leone vs. Eagle	2011		1345
-47889	Beyblade: Metal Masters: Ticket to the World	2011		1345
+47886	Beyblade: Metal Mains: A New Challenge	2011		1345
+47887	Beyblade: Metal Mains: The Persistent Challenger	2011		1345
+47888	Beyblade: Metal Mains: Final Battle! Leone vs. Eagle	2011		1345
+47889	Beyblade: Metal Mains: Ticket to the World	2011		1345
 47890	She Wants Me	2012	2.9	5223
-47891	Beyblade: Metal Masters: Seeking the Legend	2011		1345
-47892	Beyblade: Metal Masters	2011	4.2	
+47891	Beyblade: Metal Mains: Seeking the Legend	2011		1345
+47892	Beyblade: Metal Mains	2011	4.2	
 47893	How I Met Your Mother: Season 8: The Bro Mitzvah	2012		1297
 47894	How I Met Your Mother: Season 8: Romeward Bound	2012		1255
 47895	How I Met Your Mother: Season 8: Something New	2012		1297
@@ -47923,12 +47923,12 @@ for data in f:
 47919	Rules of Engagement: Season 7: Cats &#38; Dogs	2012		1301
 47920	Rules of Engagement: Season 7: Taking Names	2012		1265
 47921	Rules of Engagement: Season 7: Liz Moves In	2012		1275
-47922	Beyblade: Metal Masters: The Friend's Name Is Zeo	2011		1345
-47923	Beyblade: Metal Masters: Our Slogan Is 'Number 1'	2011		1345
-47924	Beyblade: Metal Masters: The Plot Thickens	2011		1345
-47925	Beyblade: Metal Masters: The Compass of Fate: Byxis	2011		1345
-47926	Beyblade: Metal Masters: The Explosive Cyclone Battle!	2011		1345
-47927	Beyblade: Metal Masters: Charge! Ray Gill	2011		1345
+47922	Beyblade: Metal Mains: The Friend's Name Is Zeo	2011		1345
+47923	Beyblade: Metal Mains: Our Slogan Is 'Number 1'	2011		1345
+47924	Beyblade: Metal Mains: The Plot Thickens	2011		1345
+47925	Beyblade: Metal Mains: The Compass of Fate: Byxis	2011		1345
+47926	Beyblade: Metal Mains: The Explosive Cyclone Battle!	2011		1345
+47927	Beyblade: Metal Mains: Charge! Ray Gill	2011		1345
 47928	Beyblade: Metal Fury: The Crimson Flash	2012		1345
 47929	Beyblade: Metal Fury: The Greatest Tag-Team Tournament	2012		1345
 47930	Beyblade: Metal Fury: Requirements of a Warrior	2012		1345
@@ -47945,22 +47945,22 @@ for data in f:
 47941	Beyblade: Metal Fury: Showdown at the Tower of Babel!	2012		1346
 47942	Beyblade: Metal Fury: A New Roar!	2012		1345
 47943	Beyblade: Metal Fury: Cosmic Tornado	2012		1345
-47944	Beyblade: Metal Masters: The Miraculous Spiral Force	2011		1345
-47945	Beyblade: Metal Masters: Showdown! Gingka vs. Damian	2011		1345
-47946	Beyblade: Metal Masters: Spirit's Last Battle	2011		1345
-47947	Beyblade: Metal Masters: The Dragon Emperor Descends	2011		1345
-47948	Beyblade: Metal Masters: The Final Countdown	2011		1345
-47949	Beyblade: Metal Masters: The Furious DJ Battle!?	2011		1345
-47950	Beyblade: Metal Masters: The Guard Dog of Hades: Kerbecs	2011		1345
-47951	Beyblade: Metal Masters: The Wicked Peacock: Befall	2011		1345
+47944	Beyblade: Metal Mains: The Miraculous Spiral Force	2011		1345
+47945	Beyblade: Metal Mains: Showdown! Gingka vs. Damian	2011		1345
+47946	Beyblade: Metal Mains: Spirit's Last Battle	2011		1345
+47947	Beyblade: Metal Mains: The Dragon Emperor Descends	2011		1345
+47948	Beyblade: Metal Mains: The Final Countdown	2011		1345
+47949	Beyblade: Metal Mains: The Furious DJ Battle!?	2011		1345
+47950	Beyblade: Metal Mains: The Guard Dog of Hades: Kerbecs	2011		1345
+47951	Beyblade: Metal Mains: The Wicked Peacock: Befall	2011		1345
 47952	Beyblade: Metal Fury: Star Fragment	2012		1345
 47953	Beyblade: Metal Fury	2012	4.2	
-47954	Beyblade: Metal Masters: Galaxy Heart	2011		1345
-47955	Beyblade: Metal Masters: Rampage! Tempo	2011		1345
-47956	Beyblade: Metal Masters: The Wild Beast Unleashed	2011		1345
-47957	Beyblade: Metal Masters: Befall's Trap	2011		1345
-47958	Beyblade: Metal Masters: The Fallen Emperor	2011		1345
-47959	Beyblade: Metal Masters: Charge! Hades City	2011		1345
+47954	Beyblade: Metal Mains: Galaxy Heart	2011		1345
+47955	Beyblade: Metal Mains: Rampage! Tempo	2011		1345
+47956	Beyblade: Metal Mains: The Wild Beast Unleashed	2011		1345
+47957	Beyblade: Metal Mains: Befall's Trap	2011		1345
+47958	Beyblade: Metal Mains: The Fallen Emperor	2011		1345
+47959	Beyblade: Metal Mains: Charge! Hades City	2011		1345
 47960	Beyblade: Metal Fury: To the Final Battle Ground	2012		1345
 47961	Beyblade: Metal Fury: The Lost Kingdom	2012		1347
 47962	Beyblade: Metal Fury: The Missing Star of the Four Seasons	2012		1345
@@ -48319,7 +48319,7 @@ for data in f:
 48315	Oddities: Season 3: Shot through the Heart	2011		1300
 48316	I (Almost) Got Away with It: Season 3: Got Caught in Love Triangle	2011		2619
 48317	Oddities: Season 3	2011	3.9	
-48318	Beyblade: Metal Masters	2011	4.2	
+48318	Beyblade: Metal Mains	2011	4.2	
 48319	Who the (Bleep) Did I Marry?: Season 2: From Starry-Eyed to Star Witness	2011		1298
 48320	Who the (Bleep) Did I Marry?: Season 2: A Certified Horror	2011		1299
 48321	I (Almost) Got Away with It: Season 3: Got to Get Revenge	2011		2618
@@ -48876,7 +48876,7 @@ for data in f:
 48872	The Devils Ride: Season 1	2012	3.3	
 48873	The Making of VGHS: The Behind the Scenes Feature Documentary	2012	3.5	3644
 48874	Video Game High School: Season 2: Some Like It Bot	2013		1978
-48875	Brew Masters	2010	4.1	
+48875	Brew Mains	2010	4.1	
 48876	Video Game High School: Season 2: Three Laps  Three Rounds  Three Words	2013		2637
 48877	Video Game High School: Season 2: Double XP Weekend	2013		1936
 48878	Video Game High School: Season 2: Thirty Foot Range	2013		2251
@@ -49223,21 +49223,21 @@ for data in f:
 49219	Barbie Life in the Dreamhouse: Shorts: Best Of	2013		1413
 49220	What Not to Wear: Season 10: Deborah	2012		2622
 49221	Sister Wives: Season 4: No Place Like Home	2013		1298
-49222	BBQ Pitmasters: Season 3: All Hammed Up!	2012		2619
-49223	BBQ Pitmasters: Season 3: Doctors  Divas  and 2 Worthless Nuts	2012		2619
+49222	BBQ Pitmains: Season 3: All Hammed Up!	2012		2619
+49223	BBQ Pitmains: Season 3: Doctors  Divas  and 2 Worthless Nuts	2012		2619
 49224	Sister Wives: Season 4: Meri's Baby Decision	2013		1298
-49225	BBQ Pitmasters: Season 3: The Grand Porkin' Finale	2012		2619
+49225	BBQ Pitmains: Season 3: The Grand Porkin' Finale	2012		2619
 49226	Sister Wives: Season 4: Brown Family Confessions	2013		1298
 49227	Alaska: Ice Cold Killers: Season 1	2012	3.6	
 49228	Sister Wives: Season 4: Leaving the Nest	2013		2619
-49229	BBQ Pitmasters: Season 3	2012	3.7	
+49229	BBQ Pitmains: Season 3	2012	3.7	
 49230	What Not to Wear: Season 10	2012	3.9	
-49231	BBQ Pitmasters: Season 3: Try  Try  Tri-Tip Again	2012		2620
+49231	BBQ Pitmains: Season 3: Try  Try  Tri-Tip Again	2012		2620
 49232	What Not to Wear: Season 10: What Not To Wear: Live	2012		2622
-49233	BBQ Pitmasters: Season 3: Baby Light My Fire	2012		2619
+49233	BBQ Pitmains: Season 3: Baby Light My Fire	2012		2619
 49234	What Not to Wear: Season 10: Desiree	2012		2622
 49235	What Not to Wear: Season 10: Kathy	2012		2622
-49236	BBQ Pitmasters: Season 3: Trimming the Fat!	2012		2620
+49236	BBQ Pitmains: Season 3: Trimming the Fat!	2012		2620
 49237	Cake Boss: Season 7: Beer  Buttercups &#38; Bumbling	2012		1290
 49238	Cake Boss: Season 7: Presidents  Peanut Butter &#38; Popping-in	2012		1299
 49239	Cake Boss: Season 7: Liberty  Layups &#38; a Loaded Dinner	2012		1301
